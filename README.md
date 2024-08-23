@@ -1,6 +1,10 @@
 # DTL-Archiv-Scraper
 Scraped definierte Wettkämpfe im DTL Archiv für Analysen
 
+> [!WARNING]
+> Es muss für Playwright noch ein Browser installiert werden. Ich verwende Chromium. `playwright install chromium`
+
+## Die Website ID
 Die ID's sind in den URLs der eizelnen Wettkämpfe zu finden. Die URLs sind aufsteigend (innerhalb der Ligen).
 Zur nächsten Liga wird die ID einfach um 1 erhöht. 
 
