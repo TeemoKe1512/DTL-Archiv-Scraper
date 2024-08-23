@@ -5,6 +5,8 @@ Scraped definierte Wettkämpfe im DTL Archiv für Analysen
 > Es muss für Playwright noch ein Browser installiert werden. Ich verwende Chromium. `playwright install chromium`
 
 ## Die Website ID
+[Liga-Archiv](https://www.deutsche-turnliga.de/dtl/historie/archiv.html?Typ=Mann&SaisonID=18&LigaID=679&TagesID=596)
+
 Die ID's sind in den URLs der eizelnen Wettkämpfe zu finden. Die URLs sind aufsteigend (innerhalb der Ligen).
 Zur nächsten Liga wird die ID einfach um 1 erhöht. 
 
