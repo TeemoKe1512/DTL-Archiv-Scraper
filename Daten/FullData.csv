@@ -1,0 +1,1345 @@
+Datum,Wettkampf,Gerät,Mannschaft,Turner,D-Note,Endwert,Score
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Boden,Grötzingen-Karlsruhe,"Kramer, Julius","3,8","12,10",1
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Boden,KTT Heilbronn,"Späth, Fabian","3,6","11,85",0
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Boden,Grötzingen-Karlsruhe,"Bertsch, Julian","3,4","11,15",0
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Boden,KTT Heilbronn,"Thiele, Moritz","3,4","11,75",3
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Boden,Grötzingen-Karlsruhe,"Weiss, Sverre","3,9","10,35",0
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Boden,KTT Heilbronn,"Hofmann, Jakob","3,9","11,90",4
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Boden,Grötzingen-Karlsruhe,"Steele, Adam","4,4","13,30",4
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Boden,KTT Heilbronn,"Schaaf, Jonas","3,7","12,05",0
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Pferd,Grötzingen-Karlsruhe,"Brücher, Björn","2,6","9,85",0
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Pferd,KTT Heilbronn,"Konrad, Joshua","2,7","10,55",3
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Pferd,Grötzingen-Karlsruhe,"Steele, Adam","4,9","13,50",5
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Pferd,KTT Heilbronn,"Hofmann, Jakob","3,5","11,40",0
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Pferd,Grötzingen-Karlsruhe,"Roth, Tobias","2,5","10,05",4
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Pferd,KTT Heilbronn,"Schuster, Axel","2,6","8,40",0
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Pferd,Grötzingen-Karlsruhe,"Parkin, Nikolai","2,6","6,95",0
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Pferd,KTT Heilbronn,"Binder, Julius","2,7","9,25",5
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Ringe,Grötzingen-Karlsruhe,"Huber, Leo","2,9","9,40",0
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Ringe,KTT Heilbronn,"Staufert, Colin","2,6","9,50",0
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Ringe,Grötzingen-Karlsruhe,"Roth, Tobias","2,3","4,45",5
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Ringe,KTT Heilbronn,"Payer, Stefan","1,7","1,15",0
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Ringe,Grötzingen-Karlsruhe,"Steele, Adam","3,7","12,55",5
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Ringe,KTT Heilbronn,"Storz, Patrick","3,0","10,25",0
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Ringe,Grötzingen-Karlsruhe,"Brücher, Björn","2,9","10,75",2
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Ringe,KTT Heilbronn,"Schaaf, Jonas","2,7","10,25",0
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Sprung,Grötzingen-Karlsruhe,"Kramer, Julius","3,2","11,80",0
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Sprung,KTT Heilbronn,"Binder, Julius","3,2","12,05",1
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Sprung,Grötzingen-Karlsruhe,"Eder, Neyén Eitan","3,2","11,85",0
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Sprung,KTT Heilbronn,"Hofmann, Jakob","4,0","12,20",2
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Sprung,Grötzingen-Karlsruhe,"Huber, Leo","2,8","11,55",0
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Sprung,KTT Heilbronn,"Späth, Fabian","3,2","11,75",1
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Sprung,Grötzingen-Karlsruhe,"Schneider, Sebastian","3,2","11,65",0
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Sprung,KTT Heilbronn,"Thiele, Moritz","3,2","11,85",1
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Barren,Grötzingen-Karlsruhe,"Enderle, Gerrit","2,5","11,00",0
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Barren,KTT Heilbronn,"Hofmann, Jakob","3,4","11,65",3
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Barren,Grötzingen-Karlsruhe,"Huber, Leo","3,0","11,30",1
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Barren,KTT Heilbronn,"Schuster, Axel","2,6","11,10",0
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Barren,Grötzingen-Karlsruhe,"Kramer, Julius","2,4","10,65",0
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Barren,KTT Heilbronn,"Storz, Patrick","2,4","11,20",3
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Barren,Grötzingen-Karlsruhe,"Steele, Adam","4,2","12,95",4
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Barren,KTT Heilbronn,"Staufert, Colin","2,4","11,40",0
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Reck,Grötzingen-Karlsruhe,"Steele, Adam","3,5","11,40",4
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Reck,KTT Heilbronn,"Schuster, Axel","2,1","10,35",0
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Reck,Grötzingen-Karlsruhe,"Hanke, Thomas","2,1","3,25",0
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Reck,KTT Heilbronn,"Schaaf, Jonas","2,8","10,90",10
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Reck,Grötzingen-Karlsruhe,"Roth, Tobias","2,5","10,80",0
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Reck,KTT Heilbronn,"Hofmann, Jakob","2,5","10,70",0
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Reck,Grötzingen-Karlsruhe,"Weiss, Sverre","3,0","10,85",3
+11.11.2023,Grötzingen-Karlsruhe - KTT Heilbronn,Reck,KTT Heilbronn,"Thiele, Moritz","2,4","10,25",0
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Boden,Grötzingen-Karlsruhe,"Kramer, Julius","3,9","10,95",0
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Boden,TG Wangen-Eisenharz,"Mittmann, Moritz","3,3","11,70",3
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Boden,Grötzingen-Karlsruhe,"Brücher, Björn","3,1","10,10",0
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Boden,TG Wangen-Eisenharz,"von Kirn, Julian","3,9","11,20",4
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Boden,Grötzingen-Karlsruhe,"Weiss, Sverre","3,9","11,85",0
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Boden,TG Wangen-Eisenharz,"Ruchti, Finn","3,9","12,10",1
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Boden,Grötzingen-Karlsruhe,"Schneider, Sebastian","3,3","9,65",0
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Boden,TG Wangen-Eisenharz,"Drechsel, Manuel","4,0","12,40",5
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Pferd,Grötzingen-Karlsruhe,"Rudat, Jens","2,8","7,75",0
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Pferd,TG Wangen-Eisenharz,"Ruf, Elias","2,7","10,40",5
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Pferd,Grötzingen-Karlsruhe,"Brücher, Björn","2,6","8,80",0
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Pferd,TG Wangen-Eisenharz,"Kimmerle, Felix","3,1","9,95",4
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Pferd,Grötzingen-Karlsruhe,"Kramer, Julius","2,4","5,85",0
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Pferd,TG Wangen-Eisenharz,"Schober, Pascal","4,4","12,60",10
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Pferd,Grötzingen-Karlsruhe,"Richter, Marco","2,6","10,45",0
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Pferd,TG Wangen-Eisenharz,"Mittmann, Moritz","4,2","12,65",5
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Ringe,Grötzingen-Karlsruhe,"Brücher, Björn","2,9","10,60",0
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Ringe,TG Wangen-Eisenharz,"Teiber, Jakob","3,5","11,10",2
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Ringe,Grötzingen-Karlsruhe,"Huber, Leo","2,9","10,60",0
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Ringe,TG Wangen-Eisenharz,"Steinhauser, Nico","3,1","11,15",3
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Ringe,Grötzingen-Karlsruhe,"Enderle, Gerrit","2,6","11,00",0
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Ringe,TG Wangen-Eisenharz,"Drechsel, Manuel","3,5","11,25",1
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Ringe,Grötzingen-Karlsruhe,"Bertsch, Julian","2,7","9,75",0
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Ringe,TG Wangen-Eisenharz,"Ruf, Elias","3,8","11,55",4
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Sprung,Grötzingen-Karlsruhe,"Eder, Neyén Eitan","3,2","11,95",0
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Sprung,TG Wangen-Eisenharz,"Ruf, Elias","4,0","12,40",2
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Sprung,Grötzingen-Karlsruhe,"Schneider, Sebastian","3,2","11,30",0
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Sprung,TG Wangen-Eisenharz,"Kimmerle, Felix","3,2","11,85",3
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Sprung,Grötzingen-Karlsruhe,"Kramer, Julius","3,2","11,95",1
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Sprung,TG Wangen-Eisenharz,"von Kirn, Julian","3,2","11,75",0
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Sprung,Grötzingen-Karlsruhe,"Huber, Leo","2,4","11,10",0
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Sprung,TG Wangen-Eisenharz,"Drechsel, Manuel","4,0","12,55",4
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Barren,Grötzingen-Karlsruhe,"Bertsch, Julian","2,5","10,70",0
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Barren,TG Wangen-Eisenharz,"Mittmann, Moritz","3,4","11,85",4
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Barren,Grötzingen-Karlsruhe,"Huber, Leo","3,0","11,35",0
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Barren,TG Wangen-Eisenharz,"Kimmerle, Felix","3,2","11,65",2
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Barren,Grötzingen-Karlsruhe,"Kramer, Julius","2,4","10,90",0
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Barren,TG Wangen-Eisenharz,"Drechsel, Manuel","3,5","11,30",2
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Barren,Grötzingen-Karlsruhe,"Enderle, Gerrit","2,5","11,45",0
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Barren,TG Wangen-Eisenharz,"Schober, Pascal","3,7","12,35",3
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Reck,Grötzingen-Karlsruhe,"Kramer, Julius","2,6","10,70",0
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Reck,TG Wangen-Eisenharz,"Ruf, Elias","2,9","11,05",2
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Reck,Grötzingen-Karlsruhe,"Weiss, Sverre","3,0","10,80",0
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Reck,TG Wangen-Eisenharz,"Drechsel, Manuel","3,1","11,20",2
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Reck,Grötzingen-Karlsruhe,"Huber, Leo","2,3","6,30",0
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Reck,TG Wangen-Eisenharz,"von Kirn, Julian","2,6","11,15",5
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Reck,Grötzingen-Karlsruhe,"Brücher, Björn","2,5","10,30",0
+21.10.2023,Grötzingen-Karlsruhe - TG Wangen-Eisenharz,Reck,TG Wangen-Eisenharz,"Kimmerle, Felix","2,7","11,10",3
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Boden,Grötzingen-Karlsruhe,"Kramer, Julius","3,9","11,80",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Boden,TSV Unterföhring,"Bircks, Oliver","3,8","11,85",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Boden,Grötzingen-Karlsruhe,"Weiss, Sverre","3,7","11,45",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Boden,TSV Unterföhring,"Isztl, Daniel","3,5","11,45",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Boden,Grötzingen-Karlsruhe,"Bertsch, Julian","3,4","9,60",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Boden,TSV Unterföhring,"Wolf, Sebastian","3,8","11,40",4
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Boden,Grötzingen-Karlsruhe,"Eder, Neyén Eitan","3,2","10,40",2
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Boden,TSV Unterföhring,"Zander, Daniel","5,1","9,95",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Pferd,Grötzingen-Karlsruhe,"Roth, Tobias","2,3","5,05",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Pferd,TSV Unterföhring,"Eiglmeier, Christoph","2,6","10,30",5
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Pferd,Grötzingen-Karlsruhe,"Brücher, Björn","2,6","10,00",5
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Pferd,TSV Unterföhring,"Zander, Daniel","2,6","4,60",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Pferd,Grötzingen-Karlsruhe,"Schneider, Sebastian","2,4","5,20",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Pferd,TSV Unterföhring,"Bircks, Oliver","2,5","9,35",5
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Pferd,Grötzingen-Karlsruhe,"Kramer, Julius","2,5","7,65",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Pferd,TSV Unterföhring,"Wolf, Sebastian","2,5","7,55",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Ringe,Grötzingen-Karlsruhe,"Brücher, Björn","2,9","10,65",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Ringe,TSV Unterföhring,"Bircks, Oliver","2,9","10,85",1
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Ringe,Grötzingen-Karlsruhe,"Bertsch, Julian","2,8","9,30",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Ringe,TSV Unterföhring,"Bircks, Florian","2,4","9,95",3
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Ringe,Grötzingen-Karlsruhe,"Roth, Tobias","2,5","10,35",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Ringe,TSV Unterföhring,"Eiglmeier, Christoph","3,3","10,75",2
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Ringe,Grötzingen-Karlsruhe,"Weiss, Sverre","2,2","5,40",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Ringe,TSV Unterföhring,"Zander, Daniel","4,8","11,45",10
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Sprung,Grötzingen-Karlsruhe,"Kramer, Julius","3,2","12,00",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Sprung,TSV Unterföhring,"Eiglmeier, Christoph","4,0","12,45",2
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Sprung,Grötzingen-Karlsruhe,"Huber, Leo","2,4","11,15",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Sprung,TSV Unterföhring,"Isztl, Daniel","4,0","12,15",3
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Sprung,Grötzingen-Karlsruhe,"Brücher, Björn","2,4","11,20",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Sprung,TSV Unterföhring,"Bircks, Oliver","4,0","12,45",4
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Sprung,Grötzingen-Karlsruhe,"Eder, Neyén Eitan","3,2","11,80",2
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Sprung,TSV Unterföhring,"Zander, Daniel","4,0","11,50",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Barren,Grötzingen-Karlsruhe,"Enderle, Gerrit","2,5","11,50",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Barren,TSV Unterföhring,"Rolle, Andreas","2,7","11,40",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Barren,Grötzingen-Karlsruhe,"Huber, Leo","3,0","10,45",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Barren,TSV Unterföhring,"Bircks, Oliver","2,5","11,00",3
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Barren,Grötzingen-Karlsruhe,"Kramer, Julius","2,2","7,90",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Barren,TSV Unterföhring,"Isztl, Daniel","3,2","10,80",5
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Barren,Grötzingen-Karlsruhe,"Brücher, Björn","2,4","10,20",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Barren,TSV Unterföhring,"Zander, Daniel","3,8","11,85",4
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Reck,Grötzingen-Karlsruhe,"Roth, Tobias","2,5","10,40",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Reck,TSV Unterföhring,"Marin Ogalla, Pablo","3,6","11,80",4
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Reck,Grötzingen-Karlsruhe,"Kramer, Julius","2,5","10,25",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Reck,TSV Unterföhring,"Isztl, Daniel","2,9","11,00",3
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Reck,Grötzingen-Karlsruhe,"Weiss, Sverre","3,1","8,60",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Reck,TSV Unterföhring,"Bircks, Oliver","2,7","10,70",5
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Reck,Grötzingen-Karlsruhe,"Brücher, Björn","2,3","6,25",0
+07.10.2023,Grötzingen-Karlsruhe - TSV Unterföhring,Reck,TSV Unterföhring,"Wolf, Sebastian","2,9","10,70",5
+30.09.2023,Grötzingen-Karlsruhe - USC München,Boden,Grötzingen-Karlsruhe,"Brücher, Björn","3,1","10,10",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Boden,USC München,"Bouchi, Rayan","3,2","11,35",4
+30.09.2023,Grötzingen-Karlsruhe - USC München,Boden,Grötzingen-Karlsruhe,"Richter, Marco","3,8","11,50",1
+30.09.2023,Grötzingen-Karlsruhe - USC München,Boden,USC München,"Seipl, Paul","3,3","11,25",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Boden,Grötzingen-Karlsruhe,"Kramer, Julius","3,6","11,65",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Boden,USC München,"Röhr, Alessio","3,4","11,55",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Boden,Grötzingen-Karlsruhe,"Weiss, Sverre","3,5","11,95",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Boden,USC München,"Huber, Paul","3,3","11,85",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Pferd,Grötzingen-Karlsruhe,"Rudat, Jens","2,7","10,85",4
+30.09.2023,Grötzingen-Karlsruhe - USC München,Pferd,USC München,"Seipl, Paul","2,5","9,50",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Pferd,Grötzingen-Karlsruhe,"Brücher, Björn","2,6","9,85",5
+30.09.2023,Grötzingen-Karlsruhe - USC München,Pferd,USC München,"Bouchi, Rayan","2,4","6,85",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Pferd,Grötzingen-Karlsruhe,"Roth, Tobias","2,5","10,85",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Pferd,USC München,"Ritung, Ken","3,6","11,25",2
+30.09.2023,Grötzingen-Karlsruhe - USC München,Pferd,Grötzingen-Karlsruhe,"Richter, Marco","2,5","10,80",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Pferd,USC München,"Pfinder, Moritz","3,3","11,00",1
+30.09.2023,Grötzingen-Karlsruhe - USC München,Ringe,Grötzingen-Karlsruhe,"Huber, Leo","2,9","9,70",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Ringe,USC München,"Peindl, Severin","2,5","11,20",4
+30.09.2023,Grötzingen-Karlsruhe - USC München,Ringe,Grötzingen-Karlsruhe,"Enderle, Gerrit","2,5","9,90",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Ringe,USC München,"Huber, David","2,4","10,95",4
+30.09.2023,Grötzingen-Karlsruhe - USC München,Ringe,Grötzingen-Karlsruhe,"Roth, Tobias","2,5","10,85",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Ringe,USC München,"Huber, Paul","2,9","10,95",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Ringe,Grötzingen-Karlsruhe,"Brücher, Björn","2,9","10,35",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Ringe,USC München,"Seipl, Paul","2,4","10,50",1
+30.09.2023,Grötzingen-Karlsruhe - USC München,Sprung,Grötzingen-Karlsruhe,"Kramer, Julius","3,2","11,95",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Sprung,USC München,"Bouchi, Rayan","3,2","12,20",1
+30.09.2023,Grötzingen-Karlsruhe - USC München,Sprung,Grötzingen-Karlsruhe,"Huber, Leo","2,4","11,35",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Sprung,USC München,"Schnippe, Lukas","3,2","12,10",3
+30.09.2023,Grötzingen-Karlsruhe - USC München,Sprung,Grötzingen-Karlsruhe,"Brücher, Björn","2,4","10,65",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Sprung,USC München,"Ritung, Ken","4,0","13,20",5
+30.09.2023,Grötzingen-Karlsruhe - USC München,Sprung,Grötzingen-Karlsruhe,"Schneider, Sebastian","2,2","10,40",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Sprung,USC München,"Röhr, Alessio","4,0","12,70",5
+30.09.2023,Grötzingen-Karlsruhe - USC München,Barren,Grötzingen-Karlsruhe,"Bratan, Lazar","2,6","11,30",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Barren,USC München,"Huber, David","2,5","11,55",1
+30.09.2023,Grötzingen-Karlsruhe - USC München,Barren,Grötzingen-Karlsruhe,"Enderle, Gerrit","2,5","11,70",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Barren,USC München,"Huber, Paul","2,5","11,60",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Barren,Grötzingen-Karlsruhe,"Huber, Leo","3,0","11,20",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Barren,USC München,"Peindl, Severin","2,6","11,25",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Barren,Grötzingen-Karlsruhe,"Kramer, Julius","2,4","10,40",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Barren,USC München,"Ritung, Ken","3,1","10,55",1
+30.09.2023,Grötzingen-Karlsruhe - USC München,Reck,Grötzingen-Karlsruhe,"Hanke, Thomas","2,6","11,05",3
+30.09.2023,Grötzingen-Karlsruhe - USC München,Reck,USC München,"Bouchi, Rayan","2,5","10,45",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Reck,Grötzingen-Karlsruhe,"Weiss, Sverre","2,4","10,75",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Reck,USC München,"Hechtl, Dominik","2,5","11,00",1
+30.09.2023,Grötzingen-Karlsruhe - USC München,Reck,Grötzingen-Karlsruhe,"Kramer, Julius","1,9","9,00",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Reck,USC München,"Pfinder, Moritz","2,6","9,25",1
+30.09.2023,Grötzingen-Karlsruhe - USC München,Reck,Grötzingen-Karlsruhe,"Roth, Tobias","2,5","10,90",0
+30.09.2023,Grötzingen-Karlsruhe - USC München,Reck,USC München,"Ritung, Ken","3,4","11,25",2
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Boden,KTT Heilbronn,"Payer, Stefan","4,0","10,00",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Boden,KTV Hohenlohe,"Philippiak, Ron","3,5","10,40",2
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Boden,KTT Heilbronn,"Thiele, Moritz","3,4","11,10",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Boden,KTV Hohenlohe,"Bortt, Silas","3,4","11,20",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Boden,KTT Heilbronn,"Hofmann, Jakob","3,9","11,15",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Boden,KTV Hohenlohe,"Schmidt, Micha Joel","3,5","11,25",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Boden,KTT Heilbronn,"Späth, Fabian","3,7","11,15",4
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Boden,KTV Hohenlohe,"Albrecht, Jonas","3,8","10,10",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Pferd,KTT Heilbronn,"Thiele, Moritz","2,7","10,40",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Pferd,KTV Hohenlohe,"Pfleger, Julian","2,9","10,75",2
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Pferd,KTT Heilbronn,"Schuster, Axel","2,5","6,80",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Pferd,KTV Hohenlohe,"Müller, Mario","2,5","7,85",4
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Pferd,KTT Heilbronn,"Hofmann, Jakob","3,5","10,00",1
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Pferd,KTV Hohenlohe,"Albrecht, Jonas","2,6","9,85",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Pferd,KTT Heilbronn,"Braun, Dominik","2,9","8,65",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Pferd,KTV Hohenlohe,"Bortt, Silas","2,6","9,85",4
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Ringe,KTT Heilbronn,"Schaaf, Jonas","2,8","9,50",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Ringe,KTV Hohenlohe,"Philippiak, Ron","2,6","10,55",4
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Ringe,KTT Heilbronn,"Storz, Patrick","3,0","10,85",4
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Ringe,KTV Hohenlohe,"Müller, Mario","3,0","9,70",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Ringe,KTT Heilbronn,"Payer, Stefan","2,8","9,20",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Ringe,KTV Hohenlohe,"Gerlach, Johannes","3,1","10,60",4
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Ringe,KTT Heilbronn,"Staufert, Colin","2,6","9,20",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Ringe,KTV Hohenlohe,"Bogdahn, Michael","2,6","10,05",3
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Sprung,KTT Heilbronn,"Späth, Fabian","3,2","12,30",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Sprung,KTV Hohenlohe,"Albrecht, Jonas","4,0","12,85",3
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Sprung,KTT Heilbronn,"Binder, Julius","3,2","11,60",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Sprung,KTV Hohenlohe,"Schmidt, Micha Joel","3,2","12,10",2
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Sprung,KTT Heilbronn,"Hofmann, Jakob","4,0","12,15",1
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Sprung,KTV Hohenlohe,"Bortt, Jan-Moritz","3,2","12,00",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Sprung,KTT Heilbronn,"Thiele, Moritz","3,2","12,25",2
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Sprung,KTV Hohenlohe,"Bortt, Silas","3,2","11,90",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Barren,KTT Heilbronn,"Storz, Patrick","2,4","11,40",1
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Barren,KTV Hohenlohe,"Bortt, Jan-Moritz","2,5","11,15",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Barren,KTT Heilbronn,"Schaaf, Jonas","2,5","11,75",2
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Barren,KTV Hohenlohe,"Philippiak, Ron","2,9","11,45",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Barren,KTT Heilbronn,"Schuster, Axel","2,5","11,20",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Barren,KTV Hohenlohe,"Bogdahn, Michael","2,5","11,50",2
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Barren,KTT Heilbronn,"Hofmann, Jakob","3,4","10,95",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Barren,KTV Hohenlohe,"Bortt, Silas","2,5","11,40",2
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Reck,KTT Heilbronn,"Payer, Stefan","3,0","10,30",4
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Reck,KTV Hohenlohe,"Philippiak, Ron","3,1","8,85",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Reck,KTT Heilbronn,"Schuster, Axel","2,1","10,70",3
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Reck,KTV Hohenlohe,"Müller, Mario","2,4","10,10",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Reck,KTT Heilbronn,"Schaaf, Jonas","2,9","6,75",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Reck,KTV Hohenlohe,"Schmidt, Micha Joel","2,6","9,60",5
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Reck,KTT Heilbronn,"Hofmann, Jakob","2,5","9,75",0
+07.10.2023,KTT Heilbronn - KTV Hohenlohe,Reck,KTV Hohenlohe,"Bortt, Silas","2,5","9,70",0
+23.09.2023,KTT Heilbronn - TG Allgäu,Boden,KTT Heilbronn,"Hofmann, Jakob","3,9","11,90",0
+23.09.2023,KTT Heilbronn - TG Allgäu,Boden,TG Allgäu,"Eberle, Stephan","3,9","12,35",2
+23.09.2023,KTT Heilbronn - TG Allgäu,Boden,KTT Heilbronn,"Thiele, Moritz","3,5","10,65",0
+23.09.2023,KTT Heilbronn - TG Allgäu,Boden,TG Allgäu,"Urbin, Michael","3,9","12,00",4
+23.09.2023,KTT Heilbronn - TG Allgäu,Boden,KTT Heilbronn,"Späth, Fabian","3,7","10,90",5
+23.09.2023,KTT Heilbronn - TG Allgäu,Boden,TG Allgäu,"Viehmann, Bastian","3,6","7,60",0
+23.09.2023,KTT Heilbronn - TG Allgäu,Boden,KTT Heilbronn,"Payer, Stefan","3,4","9,45",0
+23.09.2023,KTT Heilbronn - TG Allgäu,Boden,TG Allgäu,"Krapp, Kilian","4,6","12,00",5
+23.09.2023,KTT Heilbronn - TG Allgäu,Pferd,KTT Heilbronn,"Schaaf, Jonas","2,8","8,20",0
+23.09.2023,KTT Heilbronn - TG Allgäu,Pferd,TG Allgäu,"Eberle, Maximilian","2,7","10,40",5
+23.09.2023,KTT Heilbronn - TG Allgäu,Pferd,KTT Heilbronn,"Schuster, Axel","2,7","11,10",0
+23.09.2023,KTT Heilbronn - TG Allgäu,Pferd,TG Allgäu,"Kirmes, Robert","5,3","14,20",5
+23.09.2023,KTT Heilbronn - TG Allgäu,Pferd,KTT Heilbronn,"Hofmann, Jakob","3,5","11,25",4
+23.09.2023,KTT Heilbronn - TG Allgäu,Pferd,TG Allgäu,"Eberle, Stephan","3,9","9,90",0
+23.09.2023,KTT Heilbronn - TG Allgäu,Pferd,KTT Heilbronn,"Thiele, Moritz","2,1","4,25",0
+23.09.2023,KTT Heilbronn - TG Allgäu,Pferd,TG Allgäu,"Eisenring, Linus","4,0","11,90",10
+23.09.2023,KTT Heilbronn - TG Allgäu,Ringe,KTT Heilbronn,"Staufert, Colin","2,1","9,60",0
+23.09.2023,KTT Heilbronn - TG Allgäu,Ringe,TG Allgäu,"Schreiber, Florian","4,1","11,75",5
+23.09.2023,KTT Heilbronn - TG Allgäu,Ringe,KTT Heilbronn,"Storz, Patrick","2,6","10,90",0
+23.09.2023,KTT Heilbronn - TG Allgäu,Ringe,TG Allgäu,"Eberle, Maximilian","3,3","11,60",3
+23.09.2023,KTT Heilbronn - TG Allgäu,Ringe,KTT Heilbronn,"Schaaf, Jonas","2,7","10,65",0
+23.09.2023,KTT Heilbronn - TG Allgäu,Ringe,TG Allgäu,"Kirmes, Robert","4,9","13,70",5
+23.09.2023,KTT Heilbronn - TG Allgäu,Ringe,KTT Heilbronn,"Payer, Stefan","2,7","9,00",0
+23.09.2023,KTT Heilbronn - TG Allgäu,Ringe,TG Allgäu,"Eisenring, Linus","3,5","11,75",5
+23.09.2023,KTT Heilbronn - TG Allgäu,Sprung,KTT Heilbronn,"Binder, Julius","3,2","11,70",0
+23.09.2023,KTT Heilbronn - TG Allgäu,Sprung,TG Allgäu,"Viehmann, Bastian","3,2","11,95",1
+23.09.2023,KTT Heilbronn - TG Allgäu,Sprung,KTT Heilbronn,"Späth, Fabian","3,2","12,05",0
+23.09.2023,KTT Heilbronn - TG Allgäu,Sprung,TG Allgäu,"Eberle, Stephan","4,0","12,50",2
+23.09.2023,KTT Heilbronn - TG Allgäu,Sprung,KTT Heilbronn,"Thiele, Moritz","3,2","12,05",0
+23.09.2023,KTT Heilbronn - TG Allgäu,Sprung,TG Allgäu,"Krapp, Kilian","4,0","12,80",3
+23.09.2023,KTT Heilbronn - TG Allgäu,Sprung,KTT Heilbronn,"Hofmann, Jakob","4,0","12,80",2
+23.09.2023,KTT Heilbronn - TG Allgäu,Sprung,TG Allgäu,"Eisenring, Linus","4,0","12,45",0
+23.09.2023,KTT Heilbronn - TG Allgäu,Barren,KTT Heilbronn,"Schuster, Axel","2,5","11,35",0
+23.09.2023,KTT Heilbronn - TG Allgäu,Barren,TG Allgäu,"Eberle, Stephan","3,2","12,10",3
+23.09.2023,KTT Heilbronn - TG Allgäu,Barren,KTT Heilbronn,"Schaaf, Jonas","2,5","11,20",0
+23.09.2023,KTT Heilbronn - TG Allgäu,Barren,TG Allgäu,"Krapp, Kilian","3,2","11,95",3
+23.09.2023,KTT Heilbronn - TG Allgäu,Barren,KTT Heilbronn,"Storz, Patrick","2,4","11,30",0
+23.09.2023,KTT Heilbronn - TG Allgäu,Barren,TG Allgäu,"Kirmes, Robert","5,4","13,05",4
+23.09.2023,KTT Heilbronn - TG Allgäu,Barren,KTT Heilbronn,"Staufert, Colin","2,4","11,35",5
+23.09.2023,KTT Heilbronn - TG Allgäu,Barren,TG Allgäu,"Viehmann, Bastian","2,4","8,05",0
+23.09.2023,KTT Heilbronn - TG Allgäu,Reck,KTT Heilbronn,"Schuster, Axel","2,1","10,70",0
+23.09.2023,KTT Heilbronn - TG Allgäu,Reck,TG Allgäu,"Kirmes, Robert","4,7","11,95",4
+23.09.2023,KTT Heilbronn - TG Allgäu,Reck,KTT Heilbronn,"Schaaf, Jonas","2,9","10,85",0
+23.09.2023,KTT Heilbronn - TG Allgäu,Reck,TG Allgäu,"Urbin, Michael","3,6","11,10",1
+23.09.2023,KTT Heilbronn - TG Allgäu,Reck,KTT Heilbronn,"Payer, Stefan","3,0","8,90",0
+23.09.2023,KTT Heilbronn - TG Allgäu,Reck,TG Allgäu,"Gottwald, Julian","3,2","11,45",5
+23.09.2023,KTT Heilbronn - TG Allgäu,Reck,KTT Heilbronn,"Hofmann, Jakob","1,9","7,15",0
+23.09.2023,KTT Heilbronn - TG Allgäu,Reck,TG Allgäu,"Krapp, Kilian","4,1","12,15",5
+28.10.2023,KTT Heilbronn - TSG Backnang,Boden,KTT Heilbronn,"Späth, Fabian","3,8","10,60",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Boden,TSG Backnang,"Böckheler, Urs","3,6","11,90",4
+28.10.2023,KTT Heilbronn - TSG Backnang,Boden,KTT Heilbronn,"Thiele, Moritz","3,7","11,95",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Boden,TSG Backnang,"Cocks, Jonathan","3,8","12,50",3
+28.10.2023,KTT Heilbronn - TSG Backnang,Boden,KTT Heilbronn,"Hofmann, Jakob","3,9","10,75",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Boden,TSG Backnang,"Tasol, Tim","3,7","11,80",4
+28.10.2023,KTT Heilbronn - TSG Backnang,Boden,KTT Heilbronn,"Payer, Stefan","3,9","11,70",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Boden,TSG Backnang,"Sirosh, Nikita","4,3","11,80",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Pferd,KTT Heilbronn,"Binder, Julius","2,5","3,15",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Pferd,TSG Backnang,"Ellinger, Florian","2,7","9,70",10
+28.10.2023,KTT Heilbronn - TSG Backnang,Pferd,KTT Heilbronn,"Hofmann, Jakob","3,8","8,55",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Pferd,TSG Backnang,"Wullert, Bastian","3,2","10,15",4
+28.10.2023,KTT Heilbronn - TSG Backnang,Pferd,KTT Heilbronn,"Konrad, Joshua","2,7","10,95",4
+28.10.2023,KTT Heilbronn - TSG Backnang,Pferd,TSG Backnang,"Bölcke, Timo","3,6","9,75",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Pferd,KTT Heilbronn,"Schuster, Axel","2,4","5,35",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Pferd,TSG Backnang,"Cocks, Jonathan","2,4","6,50",4
+28.10.2023,KTT Heilbronn - TSG Backnang,Ringe,KTT Heilbronn,"Staufert, Colin","2,7","10,80",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Ringe,TSG Backnang,"Wullert, Bastian","2,9","11,00",1
+28.10.2023,KTT Heilbronn - TSG Backnang,Ringe,KTT Heilbronn,"Storz, Patrick","3,0","11,05",3
+28.10.2023,KTT Heilbronn - TSG Backnang,Ringe,TSG Backnang,"Bauer, Timo","2,7","10,50",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Ringe,KTT Heilbronn,"Schaaf, Jonas","2,7","11,00",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Ringe,TSG Backnang,"Sirosh, Nikita","3,4","11,15",1
+28.10.2023,KTT Heilbronn - TSG Backnang,Ringe,KTT Heilbronn,"Payer, Stefan","2,8","9,10",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Ringe,TSG Backnang,"Ellinger, Florian","3,2","11,30",5
+28.10.2023,KTT Heilbronn - TSG Backnang,Sprung,KTT Heilbronn,"Hofmann, Jakob","4,0","12,70",3
+28.10.2023,KTT Heilbronn - TSG Backnang,Sprung,TSG Backnang,"Cocks, Jonathan","3,2","12,15",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Sprung,KTT Heilbronn,"Binder, Julius","3,2","11,85",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Sprung,TSG Backnang,"Tasol, Tim","4,0","12,60",3
+28.10.2023,KTT Heilbronn - TSG Backnang,Sprung,KTT Heilbronn,"Späth, Fabian","3,2","11,75",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Sprung,TSG Backnang,"Fischer, Tom","3,2","12,10",2
+28.10.2023,KTT Heilbronn - TSG Backnang,Sprung,KTT Heilbronn,"Payer, Stefan","4,0","12,10",3
+28.10.2023,KTT Heilbronn - TSG Backnang,Sprung,TSG Backnang,"Blessing, Max","3,2","11,55",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Barren,KTT Heilbronn,"Storz, Patrick","2,4","11,55",2
+28.10.2023,KTT Heilbronn - TSG Backnang,Barren,TSG Backnang,"Ellinger, Florian","2,5","11,15",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Barren,KTT Heilbronn,"Hofmann, Jakob","3,4","11,90",2
+28.10.2023,KTT Heilbronn - TSG Backnang,Barren,TSG Backnang,"Bölcke, Timo","2,4","11,55",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Barren,KTT Heilbronn,"Staufert, Colin","2,4","11,50",1
+28.10.2023,KTT Heilbronn - TSG Backnang,Barren,TSG Backnang,"Tasol, Tim","2,5","11,30",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Barren,KTT Heilbronn,"Schuster, Axel","2,7","11,55",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Barren,TSG Backnang,"Blessing, Max","3,0","11,50",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Reck,KTT Heilbronn,"Schaaf, Jonas","2,8","10,85",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Reck,TSG Backnang,"Bölcke, Timo","2,5","10,95",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Reck,KTT Heilbronn,"Schuster, Axel","2,1","10,05",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Reck,TSG Backnang,"Ellinger, Florian","2,5","10,85",3
+28.10.2023,KTT Heilbronn - TSG Backnang,Reck,KTT Heilbronn,"Hofmann, Jakob","3,0","10,90",3
+28.10.2023,KTT Heilbronn - TSG Backnang,Reck,TSG Backnang,"Wullert, Bastian","2,5","10,35",0
+28.10.2023,KTT Heilbronn - TSG Backnang,Reck,KTT Heilbronn,"Braun, Dominik","2,4","10,60",5
+28.10.2023,KTT Heilbronn - TSG Backnang,Reck,TSG Backnang,"Cocks, Jonathan","2,4","7,15",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Boden,KTT Heilbronn,"Hofmann, Jakob","3,9","11,45",1
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Boden,TSV Unterföhring,"Bircks, Oliver","3,8","11,20",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Boden,KTT Heilbronn,"Späth, Fabian","3,7","11,30",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Boden,TSV Unterföhring,"Isztl, Daniel","3,5","11,60",2
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Boden,KTT Heilbronn,"Thiele, Moritz","3,4","11,15",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Boden,TSV Unterföhring,"Miggitsch, Martin","4,6","12,50",4
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Boden,KTT Heilbronn,"Schaaf, Jonas","3,7","11,70",2
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Boden,TSV Unterföhring,"Wolf, Sebastian","3,8","11,20",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Pferd,KTT Heilbronn,"Thiele, Moritz","2,7","9,50",5
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Pferd,TSV Unterföhring,"Eiglmeier, Christoph","2,5","7,00",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Pferd,KTT Heilbronn,"Hofmann, Jakob","3,5","10,45",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Pferd,TSV Unterföhring,"Miggitsch, Martin","3,9","11,70",4
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Pferd,KTT Heilbronn,"Konrad, Joshua","2,5","2,95",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Pferd,TSV Unterföhring,"Bircks, Oliver","2,5","9,95",10
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Pferd,KTT Heilbronn,"Schaaf, Jonas","2,7","9,20",5
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Pferd,TSV Unterföhring,"Wolf, Sebastian","2,6","7,10",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Ringe,KTT Heilbronn,"Storz, Patrick","3,0","9,50",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Ringe,TSV Unterföhring,"Bircks, Oliver","2,9","10,95",4
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Ringe,KTT Heilbronn,"Schaaf, Jonas","2,6","10,00",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Ringe,TSV Unterföhring,"Bircks, Florian","2,4","10,50",2
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Ringe,KTT Heilbronn,"Payer, Stefan","2,7","9,30",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Ringe,TSV Unterföhring,"Eiglmeier, Christoph","3,3","10,55",4
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Ringe,KTT Heilbronn,"Staufert, Colin","2,6","9,90",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Ringe,TSV Unterföhring,"Zander, Daniel","5,0","12,70",5
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Sprung,KTT Heilbronn,"Thiele, Moritz","3,2","11,95",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Sprung,TSV Unterföhring,"Bircks, Oliver","4,0","12,40",2
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Sprung,KTT Heilbronn,"Hofmann, Jakob","4,0","12,20",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Sprung,TSV Unterföhring,"Miggitsch, Martin","4,8","12,90",3
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Sprung,KTT Heilbronn,"Späth, Fabian","3,2","11,70",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Sprung,TSV Unterföhring,"Isztl, Daniel","4,0","12,10",2
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Sprung,KTT Heilbronn,"Binder, Julius","3,2","11,60",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Sprung,TSV Unterföhring,"Eiglmeier, Christoph","4,0","12,90",4
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Barren,KTT Heilbronn,"Staufert, Colin","2,4","11,15",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Barren,TSV Unterföhring,"Bircks, Oliver","2,5","11,25",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Barren,KTT Heilbronn,"Hofmann, Jakob","3,4","11,00",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Barren,TSV Unterföhring,"Rolle, Andreas","2,5","11,40",2
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Barren,KTT Heilbronn,"Schaaf, Jonas","3,0","10,80",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Barren,TSV Unterföhring,"Isztl, Daniel","3,2","11,85",4
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Barren,KTT Heilbronn,"Storz, Patrick","2,9","11,30",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Barren,TSV Unterföhring,"Zander, Daniel","3,8","11,95",3
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Reck,KTT Heilbronn,"Schaaf, Jonas","2,8","10,35",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Reck,TSV Unterföhring,"Marin Ogalla, Pablo","3,6","10,65",2
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Reck,KTT Heilbronn,"Payer, Stefan","2,5","6,00",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Reck,TSV Unterföhring,"Bircks, Oliver","3,2","9,60",5
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Reck,KTT Heilbronn,"Hofmann, Jakob","2,9","11,10",3
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Reck,TSV Unterföhring,"Isztl, Daniel","2,9","10,10",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Reck,KTT Heilbronn,"Thiele, Moritz","2,4","9,90",0
+14.10.2023,KTT Heilbronn - TSV Unterföhring,Reck,TSV Unterföhring,"Wolf, Sebastian","2,9","10,95",4
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Boden,KTV Hohenlohe,"Bortt, Silas","3,4","10,95",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Boden,Grötzingen-Karlsruhe,"Kramer, Julius","3,8","10,90",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Boden,KTV Hohenlohe,"Philippiak, Ron","3,5","11,15",3
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Boden,Grötzingen-Karlsruhe,"Bertsch, Julian","3,4","10,50",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Boden,KTV Hohenlohe,"Schmidt, Micha Joel","3,5","11,45",5
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Boden,Grötzingen-Karlsruhe,"Brücher, Björn","3,0","7,05",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Boden,KTV Hohenlohe,"Albrecht, Jonas","3,8","11,05",2
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Boden,Grötzingen-Karlsruhe,"Weiss, Sverre","3,7","10,65",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Pferd,KTV Hohenlohe,"Bortt, Silas","2,6","9,65",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Pferd,Grötzingen-Karlsruhe,"Richter, Marco","2,8","9,70",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Pferd,KTV Hohenlohe,"Bortt, Jan-Moritz","2,3","5,30",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Pferd,Grötzingen-Karlsruhe,"Roth, Tobias","2,5","5,95",3
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Pferd,KTV Hohenlohe,"Pfleger, Julian","2,6","8,65",3
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Pferd,Grötzingen-Karlsruhe,"Brücher, Björn","2,6","8,10",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Pferd,KTV Hohenlohe,"Hofmann, Benjamin","2,5","8,25",5
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Pferd,Grötzingen-Karlsruhe,"Parkin, Nikolai","2,3","4,00",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Ringe,KTV Hohenlohe,"Philippiak, Ron","2,6","9,90",4
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Ringe,Grötzingen-Karlsruhe,"Enderle, Gerrit","2,6","8,75",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Ringe,KTV Hohenlohe,"Bogdahn, Michael","2,6","9,50",2
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Ringe,Grötzingen-Karlsruhe,"Huber, Leo","2,4","9,05",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Ringe,KTV Hohenlohe,"Müller, Mario","2,9","9,15",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Ringe,Grötzingen-Karlsruhe,"Roth, Tobias","2,6","9,30",1
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Ringe,KTV Hohenlohe,"Bortt, Silas","2,9","9,05",1
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Ringe,Grötzingen-Karlsruhe,"Brücher, Björn","2,9","8,80",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Sprung,KTV Hohenlohe,"Bortt, Jan-Moritz","3,2","11,85",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Sprung,Grötzingen-Karlsruhe,"Eder, Neyén Eitan","3,2","12,05",1
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Sprung,KTV Hohenlohe,"Albrecht, Jonas","4,0","13,05",5
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Sprung,Grötzingen-Karlsruhe,"Schneider, Sebastian","2,2","10,50",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Sprung,KTV Hohenlohe,"Philippiak, Ron","4,0","12,55",2
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Sprung,Grötzingen-Karlsruhe,"Kramer, Julius","3,2","12,20",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Sprung,KTV Hohenlohe,"Schmidt, Micha Joel","3,2","12,10",5
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Sprung,Grötzingen-Karlsruhe,"Huber, Leo","2,4","9,85",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Barren,KTV Hohenlohe,"Schmidt, Philipp","2,4","11,15",4
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Barren,Grötzingen-Karlsruhe,"Bertsch, Julian","2,5","9,60",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Barren,KTV Hohenlohe,"Bogdahn, Michael","2,5","10,35",1
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Barren,Grötzingen-Karlsruhe,"Enderle, Gerrit","2,5","10,20",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Barren,KTV Hohenlohe,"Philippiak, Ron","2,9","10,75",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Barren,Grötzingen-Karlsruhe,"Huber, Leo","3,0","10,95",1
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Barren,KTV Hohenlohe,"Bortt, Silas","2,5","11,00",3
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Barren,Grötzingen-Karlsruhe,"Kramer, Julius","2,4","10,15",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Reck,KTV Hohenlohe,"Schmidt, Philipp","2,6","10,30",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Reck,Grötzingen-Karlsruhe,"Kramer, Julius","2,6","10,40",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Reck,KTV Hohenlohe,"Müller, Mario","2,4","10,45",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Reck,Grötzingen-Karlsruhe,"Roth, Tobias","2,5","10,55",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Reck,KTV Hohenlohe,"Philippiak, Ron","3,1","9,55",4
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Reck,Grötzingen-Karlsruhe,"Bertsch, Julian","2,4","8,45",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Reck,KTV Hohenlohe,"Bortt, Silas","2,5","10,50",0
+28.10.2023,KTV Hohenlohe - Grötzingen-Karlsruhe,Reck,Grötzingen-Karlsruhe,"Weiss, Sverre","3,0","10,60",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Boden,KTV Hohenlohe,"Schmidt, Micha Joel","3,5","11,35",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Boden,TG Wangen-Eisenharz,"Mittmann, Moritz","3,3","11,60",1
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Boden,KTV Hohenlohe,"Albrecht, Jonas","3,4","11,00",3
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Boden,TG Wangen-Eisenharz,"Ruf, Elias","3,8","10,40",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Boden,KTV Hohenlohe,"Philippiak, Ron","3,5","11,20",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Boden,TG Wangen-Eisenharz,"von Kirn, Julian","4,4","12,70",4
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Boden,KTV Hohenlohe,"Bickel, David","5,4","14,05",5
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Boden,TG Wangen-Eisenharz,"Drechsel, Manuel","4,0","10,90",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Pferd,KTV Hohenlohe,"Bortt, Silas","2,6","10,35",2
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Pferd,TG Wangen-Eisenharz,"Kimmerle, Felix","2,7","10,00",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Pferd,KTV Hohenlohe,"Pfleger, Julian","2,7","9,45",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Pferd,TG Wangen-Eisenharz,"Ruf, Elias","2,7","10,95",4
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Pferd,KTV Hohenlohe,"Fraisl, Mateo","4,2","12,35",4
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Pferd,TG Wangen-Eisenharz,"Schober, Pascal","4,2","11,05",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Pferd,KTV Hohenlohe,"Bogdahn, Michael","2,3","5,40",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Pferd,TG Wangen-Eisenharz,"Mittmann, Moritz","4,2","10,65",5
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Ringe,KTV Hohenlohe,"Philippiak, Ron","2,6","8,85",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Ringe,TG Wangen-Eisenharz,"Steinhauser, Nico","3,5","10,70",4
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Ringe,KTV Hohenlohe,"Fraisl, Mateo","3,9","12,60",3
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Ringe,TG Wangen-Eisenharz,"Teiber, Jakob","3,5","11,75",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Ringe,KTV Hohenlohe,"Bogdahn, Michael","2,6","10,45",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Ringe,TG Wangen-Eisenharz,"Drechsel, Manuel","3,5","11,70",4
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Ringe,KTV Hohenlohe,"Gerlach, Johannes","3,1","10,70",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Ringe,TG Wangen-Eisenharz,"Ruf, Elias","3,9","11,50",3
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Sprung,KTV Hohenlohe,"Schmidt, Micha Joel","3,2","12,10",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Sprung,TG Wangen-Eisenharz,"Drechsel, Manuel","4,0","12,85",3
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Sprung,KTV Hohenlohe,"Albrecht, Jonas","4,0","13,10",4
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Sprung,TG Wangen-Eisenharz,"Ruf, Elias","3,2","12,00",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Sprung,KTV Hohenlohe,"Fraisl, Mateo","4,8","13,60",4
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Sprung,TG Wangen-Eisenharz,"Kimmerle, Felix","3,2","12,00",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Sprung,KTV Hohenlohe,"Bortt, Silas","3,2","11,80",3
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Sprung,TG Wangen-Eisenharz,"von Kirn, Julian","3,2","10,85",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Barren,KTV Hohenlohe,"Bickel, David","3,8","11,95",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Barren,TG Wangen-Eisenharz,"Mittmann, Moritz","3,5","11,85",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Barren,KTV Hohenlohe,"Bortt, Silas","2,5","11,40",3
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Barren,TG Wangen-Eisenharz,"Kimmerle, Felix","3,2","10,65",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Barren,KTV Hohenlohe,"Philippiak, Ron","2,8","7,00",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Barren,TG Wangen-Eisenharz,"Schober, Pascal","3,8","12,35",5
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Barren,KTV Hohenlohe,"Bogdahn, Michael","2,5","10,90",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Barren,TG Wangen-Eisenharz,"Drechsel, Manuel","3,5","11,85",3
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Reck,KTV Hohenlohe,"Schmidt, Micha Joel","2,5","10,55",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Reck,TG Wangen-Eisenharz,"Ruf, Elias","3,0","11,15",3
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Reck,KTV Hohenlohe,"Philippiak, Ron","3,0","9,55",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Reck,TG Wangen-Eisenharz,"Drechsel, Manuel","3,1","10,65",4
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Reck,KTV Hohenlohe,"Bortt, Silas","2,5","10,35",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Reck,TG Wangen-Eisenharz,"Kimmerle, Felix","2,7","10,35",0
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Reck,KTV Hohenlohe,"Jauck, Joel","3,3","11,30",3
+23.09.2023,KTV Hohenlohe - TG Wangen-Eisenharz,Reck,TG Wangen-Eisenharz,"Müller, Hannes","2,6","10,40",0
+14.10.2023,KTV Hohenlohe - USC München,Boden,KTV Hohenlohe,"Bortt, Silas","3,4","10,80",0
+14.10.2023,KTV Hohenlohe - USC München,Boden,USC München,"Seipl, Paul","3,3","11,00",1
+14.10.2023,KTV Hohenlohe - USC München,Boden,KTV Hohenlohe,"Schmidt, Micha Joel","3,7","10,95",0
+14.10.2023,KTV Hohenlohe - USC München,Boden,USC München,"Huber, Paul","3,3","11,05",0
+14.10.2023,KTV Hohenlohe - USC München,Boden,KTV Hohenlohe,"Albrecht, Jonas","3,8","11,55",0
+14.10.2023,KTV Hohenlohe - USC München,Boden,USC München,"Trattnig, Stephan","3,5","11,80",1
+14.10.2023,KTV Hohenlohe - USC München,Boden,KTV Hohenlohe,"Philippiak, Ron","3,5","11,80",0
+14.10.2023,KTV Hohenlohe - USC München,Boden,USC München,"Röhr, Alessio","3,4","12,10",2
+14.10.2023,KTV Hohenlohe - USC München,Pferd,KTV Hohenlohe,"Bortt, Silas","2,6","9,50",0
+14.10.2023,KTV Hohenlohe - USC München,Pferd,USC München,"Seipl, Paul","2,8","10,60",4
+14.10.2023,KTV Hohenlohe - USC München,Pferd,KTV Hohenlohe,"Albrecht, Jonas","2,8","8,20",0
+14.10.2023,KTV Hohenlohe - USC München,Pferd,USC München,"Huber, Paul","2,4","9,20",3
+14.10.2023,KTV Hohenlohe - USC München,Pferd,KTV Hohenlohe,"Bogdahn, Michael","2,4","8,90",0
+14.10.2023,KTV Hohenlohe - USC München,Pferd,USC München,"Trattnig, Stephan","2,5","10,50",4
+14.10.2023,KTV Hohenlohe - USC München,Pferd,KTV Hohenlohe,"Pfleger, Julian","2,5","7,80",4
+14.10.2023,KTV Hohenlohe - USC München,Pferd,USC München,"Pfinder, Moritz","2,8","6,30",0
+14.10.2023,KTV Hohenlohe - USC München,Ringe,KTV Hohenlohe,"Müller, Mario","3,0","9,65",0
+14.10.2023,KTV Hohenlohe - USC München,Ringe,USC München,"Huber, David","2,4","10,60",3
+14.10.2023,KTV Hohenlohe - USC München,Ringe,KTV Hohenlohe,"Philippiak, Ron","2,6","10,60",3
+14.10.2023,KTV Hohenlohe - USC München,Ringe,USC München,"Seipl, Paul","2,4","10,00",0
+14.10.2023,KTV Hohenlohe - USC München,Ringe,KTV Hohenlohe,"Bogdahn, Michael","2,6","10,25",0
+14.10.2023,KTV Hohenlohe - USC München,Ringe,USC München,"Peindl, Severin","2,5","11,20",3
+14.10.2023,KTV Hohenlohe - USC München,Ringe,KTV Hohenlohe,"Bortt, Silas","2,9","9,70",0
+14.10.2023,KTV Hohenlohe - USC München,Ringe,USC München,"Huber, Paul","2,9","11,10",4
+14.10.2023,KTV Hohenlohe - USC München,Sprung,KTV Hohenlohe,"Bortt, Jan-Moritz","3,2","12,00",0
+14.10.2023,KTV Hohenlohe - USC München,Sprung,USC München,"Röhr, Alessio","4,0","12,30",2
+14.10.2023,KTV Hohenlohe - USC München,Sprung,KTV Hohenlohe,"Schmidt, Micha Joel","3,2","12,30",4
+14.10.2023,KTV Hohenlohe - USC München,Sprung,USC München,"Huber, Paul","2,8","10,95",0
+14.10.2023,KTV Hohenlohe - USC München,Sprung,KTV Hohenlohe,"Bortt, Silas","3,2","11,85",1
+14.10.2023,KTV Hohenlohe - USC München,Sprung,USC München,"Trattnig, Stephan","4,0","11,70",0
+14.10.2023,KTV Hohenlohe - USC München,Sprung,KTV Hohenlohe,"Albrecht, Jonas","4,0","12,75",3
+14.10.2023,KTV Hohenlohe - USC München,Sprung,USC München,"Albert, Felix","3,2","11,75",0
+14.10.2023,KTV Hohenlohe - USC München,Barren,KTV Hohenlohe,"Bogdahn, Michael","2,5","11,00",0
+14.10.2023,KTV Hohenlohe - USC München,Barren,USC München,"Huber, David","2,5","11,25",1
+14.10.2023,KTV Hohenlohe - USC München,Barren,KTV Hohenlohe,"Bortt, Silas","2,5","11,20",2
+14.10.2023,KTV Hohenlohe - USC München,Barren,USC München,"Huber, Paul","2,5","10,85",0
+14.10.2023,KTV Hohenlohe - USC München,Barren,KTV Hohenlohe,"Philippiak, Ron","2,9","11,30",0
+14.10.2023,KTV Hohenlohe - USC München,Barren,USC München,"Trattnig, Stephan","2,5","11,55",1
+14.10.2023,KTV Hohenlohe - USC München,Barren,KTV Hohenlohe,"Schmidt, Philipp","2,4","11,35",0
+14.10.2023,KTV Hohenlohe - USC München,Barren,USC München,"Albert, Felix","2,4","11,35",0
+14.10.2023,KTV Hohenlohe - USC München,Reck,KTV Hohenlohe,"Schmidt, Micha Joel","2,6","10,25",1
+14.10.2023,KTV Hohenlohe - USC München,Reck,USC München,"Huber, David","2,4","10,00",0
+14.10.2023,KTV Hohenlohe - USC München,Reck,KTV Hohenlohe,"Philippiak, Ron","3,1","9,40",0
+14.10.2023,KTV Hohenlohe - USC München,Reck,USC München,"Albert, Felix","2,4","10,60",4
+14.10.2023,KTV Hohenlohe - USC München,Reck,KTV Hohenlohe,"Müller, Mario","2,4","10,75",5
+14.10.2023,KTV Hohenlohe - USC München,Reck,USC München,"Pfinder, Moritz","3,0","6,75",0
+14.10.2023,KTV Hohenlohe - USC München,Reck,KTV Hohenlohe,"Bortt, Silas","2,5","11,00",1
+14.10.2023,KTV Hohenlohe - USC München,Reck,USC München,"Trattnig, Stephan","2,4","10,85",0
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Boden,TG Allgäu,"Krapp, Kilian","4,4","11,65",2
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Boden,Grötzingen-Karlsruhe,"Weiss, Sverre","3,9","11,20",0
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Boden,TG Allgäu,"Kovacs, Marton","5,1","12,40",4
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Boden,Grötzingen-Karlsruhe,"Kramer, Julius","3,8","11,15",0
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Boden,TG Allgäu,"Urbin, Michael","3,9","12,05",0
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Boden,Grötzingen-Karlsruhe,"Steele, Adam","5,0","13,40",4
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Boden,TG Allgäu,"Eberle, Stephan","3,9","10,85",3
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Boden,Grötzingen-Karlsruhe,"Brücher, Björn","3,1","10,25",0
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Pferd,TG Allgäu,"Eisenring, Linus","4,0","11,95",0
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Pferd,Grötzingen-Karlsruhe,"Steele, Adam","5,3","13,15",4
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Pferd,TG Allgäu,"Krapp, Kilian","2,7","8,30",0
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Pferd,Grötzingen-Karlsruhe,"Brücher, Björn","2,6","10,10",4
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Pferd,TG Allgäu,"Kovacs, Marton","5,2","11,40",4
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Pferd,Grötzingen-Karlsruhe,"Rudat, Jens","2,8","9,75",0
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Pferd,TG Allgäu,"Eberle, Stephan","3,7","11,15",5
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Pferd,Grötzingen-Karlsruhe,"Parkin, Nikolai","2,6","9,10",0
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Ringe,TG Allgäu,"Schreiber, Florian","3,8","10,90",2
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Ringe,Grötzingen-Karlsruhe,"Brücher, Björn","2,9","10,40",0
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Ringe,TG Allgäu,"Eberle, Maximilian","3,3","11,05",4
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Ringe,Grötzingen-Karlsruhe,"Huber, Leo","3,2","9,40",0
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Ringe,TG Allgäu,"Krapp, Kilian","3,5","11,00",0
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Ringe,Grötzingen-Karlsruhe,"Steele, Adam","3,6","11,95",3
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Ringe,TG Allgäu,"Eisenring, Linus","3,5","11,80",5
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Ringe,Grötzingen-Karlsruhe,"Weiss, Sverre","2,3","8,50",0
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Sprung,TG Allgäu,"Urbin, Michael","2,8","11,25",0
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Sprung,Grötzingen-Karlsruhe,"Eder, Neyén Eitan","3,2","12,15",3
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Sprung,TG Allgäu,"Eberle, Stephan","4,0","12,35",0
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Sprung,Grötzingen-Karlsruhe,"Kramer, Julius","3,2","12,40",0
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Sprung,TG Allgäu,"Krapp, Kilian","4,4","12,90",0
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Sprung,Grötzingen-Karlsruhe,"Steele, Adam","5,2","14,00",4
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Sprung,TG Allgäu,"Kovacs, Marton","4,0","12,90",4
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Sprung,Grötzingen-Karlsruhe,"Schneider, Sebastian","3,2","11,40",0
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Barren,TG Allgäu,"Eberle, Stephan","3,2","11,90",2
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Barren,Grötzingen-Karlsruhe,"Huber, Leo","3,0","11,40",0
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Barren,TG Allgäu,"Kovacs, Marton","4,3","12,65",5
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Barren,Grötzingen-Karlsruhe,"Kramer, Julius","2,4","10,55",0
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Barren,TG Allgäu,"Urbin, Stephan","3,5","11,70",0
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Barren,Grötzingen-Karlsruhe,"Steele, Adam","5,2","11,85",1
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Barren,TG Allgäu,"Krapp, Kilian","3,2","11,50",5
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Barren,Grötzingen-Karlsruhe,"Brücher, Björn","2,4","9,40",0
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Reck,TG Allgäu,"Gottwald, Julian","3,2","11,40",3
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Reck,Grötzingen-Karlsruhe,"Kramer, Julius","2,6","10,50",0
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Reck,TG Allgäu,"Eisenring, Linus","2,8","11,05",0
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Reck,Grötzingen-Karlsruhe,"Steele, Adam","4,5","13,30",5
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Reck,TG Allgäu,"Urbin, Michael","3,5","11,10",3
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Reck,Grötzingen-Karlsruhe,"Weiss, Sverre","3,2","10,10",0
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Reck,TG Allgäu,"Krapp, Kilian","3,9","10,40",3
+14.10.2023,TG Allgäu - Grötzingen-Karlsruhe,Reck,Grötzingen-Karlsruhe,"Brücher, Björn","2,5","9,50",0
+30.09.2023,TG Allgäu - KTV Hohenlohe,Boden,TG Allgäu,"Urbin, Michael","3,9","11,80",3
+30.09.2023,TG Allgäu - KTV Hohenlohe,Boden,KTV Hohenlohe,"Philippiak, Ron","3,5","10,90",0
+30.09.2023,TG Allgäu - KTV Hohenlohe,Boden,TG Allgäu,"Eberle, Stephan","3,9","11,10",0
+30.09.2023,TG Allgäu - KTV Hohenlohe,Boden,KTV Hohenlohe,"Bickel, David","5,4","13,45",5
+30.09.2023,TG Allgäu - KTV Hohenlohe,Boden,TG Allgäu,"Zurlini, Umberto","5,8","13,75",5
+30.09.2023,TG Allgäu - KTV Hohenlohe,Boden,KTV Hohenlohe,"Schmidt, Micha Joel","3,7","10,10",0
+30.09.2023,TG Allgäu - KTV Hohenlohe,Boden,TG Allgäu,"Krapp, Kilian","4,8","11,90",0
+30.09.2023,TG Allgäu - KTV Hohenlohe,Boden,KTV Hohenlohe,"Albrecht, Jonas","3,8","11,95",0
+30.09.2023,TG Allgäu - KTV Hohenlohe,Pferd,TG Allgäu,"Eisenring, Linus","3,7","9,25",0
+30.09.2023,TG Allgäu - KTV Hohenlohe,Pferd,KTV Hohenlohe,"Bortt, Silas","2,7","10,05",3
+30.09.2023,TG Allgäu - KTV Hohenlohe,Pferd,TG Allgäu,"Zurlini, Umberto","5,1","10,75",4
+30.09.2023,TG Allgäu - KTV Hohenlohe,Pferd,KTV Hohenlohe,"Pfleger, Julian","2,6","9,35",0
+30.09.2023,TG Allgäu - KTV Hohenlohe,Pferd,TG Allgäu,"Urbin, Stephan","2,5","8,15",5
+30.09.2023,TG Allgäu - KTV Hohenlohe,Pferd,KTV Hohenlohe,"Hofmann, Benjamin","2,5","4,90",0
+30.09.2023,TG Allgäu - KTV Hohenlohe,Pferd,TG Allgäu,"Eberle, Maximilian","2,6","9,10",4
+30.09.2023,TG Allgäu - KTV Hohenlohe,Pferd,KTV Hohenlohe,"Bickel, David","3,6","7,50",0
+30.09.2023,TG Allgäu - KTV Hohenlohe,Ringe,TG Allgäu,"Eisenring, Linus","3,5","11,60",4
+30.09.2023,TG Allgäu - KTV Hohenlohe,Ringe,KTV Hohenlohe,"Bogdahn, Michael","2,6","9,65",0
+30.09.2023,TG Allgäu - KTV Hohenlohe,Ringe,TG Allgäu,"Viehmann, Bastian","3,5","10,65",10
+30.09.2023,TG Allgäu - KTV Hohenlohe,Ringe,KTV Hohenlohe,"Jauck, Joel","3,3","4,25",0
+30.09.2023,TG Allgäu - KTV Hohenlohe,Ringe,TG Allgäu,"Schreiber, Florian","3,9","10,50",3
+30.09.2023,TG Allgäu - KTV Hohenlohe,Ringe,KTV Hohenlohe,"Philippiak, Ron","2,6","9,95",0
+30.09.2023,TG Allgäu - KTV Hohenlohe,Ringe,TG Allgäu,"Eberle, Maximilian","3,3","10,50",2
+30.09.2023,TG Allgäu - KTV Hohenlohe,Ringe,KTV Hohenlohe,"Gerlach, Johannes","3,1","10,10",0
+30.09.2023,TG Allgäu - KTV Hohenlohe,Sprung,TG Allgäu,"Eisenring, Linus","2,2","9,10",0
+30.09.2023,TG Allgäu - KTV Hohenlohe,Sprung,KTV Hohenlohe,"Schmidt, Micha Joel","3,2","11,95",5
+30.09.2023,TG Allgäu - KTV Hohenlohe,Sprung,TG Allgäu,"Eberle, Stephan","4,0","12,40",4
+30.09.2023,TG Allgäu - KTV Hohenlohe,Sprung,KTV Hohenlohe,"Jauck, Joel","4,0","11,05",0
+30.09.2023,TG Allgäu - KTV Hohenlohe,Sprung,TG Allgäu,"Zurlini, Umberto","4,8","13,00",4
+30.09.2023,TG Allgäu - KTV Hohenlohe,Sprung,KTV Hohenlohe,"Bortt, Silas","3,2","11,65",0
+30.09.2023,TG Allgäu - KTV Hohenlohe,Sprung,TG Allgäu,"Krapp, Kilian","4,4","13,00",4
+30.09.2023,TG Allgäu - KTV Hohenlohe,Sprung,KTV Hohenlohe,"Albrecht, Jonas","4,0","11,70",0
+30.09.2023,TG Allgäu - KTV Hohenlohe,Barren,TG Allgäu,"Eberle, Stephan","3,1","10,95",4
+30.09.2023,TG Allgäu - KTV Hohenlohe,Barren,KTV Hohenlohe,"Bickel, David","3,8","9,75",0
+30.09.2023,TG Allgäu - KTV Hohenlohe,Barren,TG Allgäu,"Urbin, Stephan","3,5","10,25",0
+30.09.2023,TG Allgäu - KTV Hohenlohe,Barren,KTV Hohenlohe,"Bortt, Silas","2,5","11,30",4
+30.09.2023,TG Allgäu - KTV Hohenlohe,Barren,TG Allgäu,"Zurlini, Umberto","3,9","8,05",0
+30.09.2023,TG Allgäu - KTV Hohenlohe,Barren,KTV Hohenlohe,"Philippiak, Ron","2,9","11,15",5
+30.09.2023,TG Allgäu - KTV Hohenlohe,Barren,TG Allgäu,"Krapp, Kilian","3,2","9,55",0
+30.09.2023,TG Allgäu - KTV Hohenlohe,Barren,KTV Hohenlohe,"Bogdahn, Michael","2,5","10,80",4
+30.09.2023,TG Allgäu - KTV Hohenlohe,Reck,TG Allgäu,"Gottwald, Julian","3,2","11,05",4
+30.09.2023,TG Allgäu - KTV Hohenlohe,Reck,KTV Hohenlohe,"Schmidt, Micha Joel","2,5","9,25",0
+30.09.2023,TG Allgäu - KTV Hohenlohe,Reck,TG Allgäu,"Viehmann, Bastian","2,6","8,95",0
+30.09.2023,TG Allgäu - KTV Hohenlohe,Reck,KTV Hohenlohe,"Philippiak, Ron","3,1","9,45",2
+30.09.2023,TG Allgäu - KTV Hohenlohe,Reck,TG Allgäu,"Urbin, Michael","3,6","11,75",4
+30.09.2023,TG Allgäu - KTV Hohenlohe,Reck,KTV Hohenlohe,"Jauck, Joel","3,3","10,60",0
+30.09.2023,TG Allgäu - KTV Hohenlohe,Reck,TG Allgäu,"Krapp, Kilian","4,1","11,85",4
+30.09.2023,TG Allgäu - KTV Hohenlohe,Reck,KTV Hohenlohe,"Bortt, Silas","2,5","10,75",0
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Boden,TG Allgäu,"Zurlini, Umberto","5,3","12,90",3
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Boden,TG Wangen-Eisenharz,"Ruchti, Finn","4,1","12,05",0
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Boden,TG Allgäu,"Eberle, Stephan","3,9","11,65",2
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Boden,TG Wangen-Eisenharz,"von Kirn, Julian","4,5","11,20",0
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Boden,TG Allgäu,"Urbin, Michael","3,9","11,80",3
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Boden,TG Wangen-Eisenharz,"Mittmann, Moritz","3,3","11,10",0
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Boden,TG Allgäu,"Krapp, Kilian","0,9","0,40",0
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Boden,TG Wangen-Eisenharz,"Drechsel, Manuel","4,4","12,35",10
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Pferd,TG Allgäu,"Eisenring, Linus","4,0","10,75",0
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Pferd,TG Wangen-Eisenharz,"Kimmerle, Felix","3,1","10,90",1
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Pferd,TG Allgäu,"Eberle, Stephan","3,7","10,30",0
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Pferd,TG Wangen-Eisenharz,"Schober, Pascal","3,2","10,35",0
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Pferd,TG Allgäu,"Zurlini, Umberto","4,7","12,65",5
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Pferd,TG Wangen-Eisenharz,"Ruf, Elias","2,7","10,60",0
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Pferd,TG Allgäu,"Wiedenmann, Marlon","3,0","10,55",5
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Pferd,TG Wangen-Eisenharz,"Mittmann, Moritz","2,8","6,75",0
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Ringe,TG Allgäu,"Eberle, Maximilian","3,3","10,75",0
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Ringe,TG Wangen-Eisenharz,"Drechsel, Manuel","3,4","11,30",3
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Ringe,TG Allgäu,"Zurlini, Umberto","4,2","13,00",5
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Ringe,TG Wangen-Eisenharz,"Merath, Stefan","3,4","10,00",0
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Ringe,TG Allgäu,"Eisenring, Linus","3,5","12,10",4
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Ringe,TG Wangen-Eisenharz,"Teiber, Jakob","3,5","10,80",0
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Ringe,TG Allgäu,"Viehmann, Bastian","3,5","11,30",3
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Ringe,TG Wangen-Eisenharz,"Kimmerle, Felix","3,3","10,75",0
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Sprung,TG Allgäu,"Urbin, Michael","4,0","12,50",2
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Sprung,TG Wangen-Eisenharz,"von Kirn, Julian","3,2","12,20",0
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Sprung,TG Allgäu,"Eberle, Stephan","4,0","12,55",3
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Sprung,TG Wangen-Eisenharz,"Kimmerle, Felix","3,2","12,00",0
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Sprung,TG Allgäu,"Zurlini, Umberto","4,8","13,75",4
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Sprung,TG Wangen-Eisenharz,"Ruchti, Finn","3,2","11,85",0
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Sprung,TG Allgäu,"Eisenring, Linus","4,0","12,55",2
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Sprung,TG Wangen-Eisenharz,"Drechsel, Manuel","4,0","12,25",0
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Barren,TG Allgäu,"Eberle, Stephan","3,2","11,55",2
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Barren,TG Wangen-Eisenharz,"Schober, Pascal","3,7","11,25",0
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Barren,TG Allgäu,"Urbin, Michael","3,3","11,95",4
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Barren,TG Wangen-Eisenharz,"Mittmann, Moritz","3,0","10,25",0
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Barren,TG Allgäu,"Zurlini, Umberto","4,7","12,80",4
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Barren,TG Wangen-Eisenharz,"Kimmerle, Felix","3,3","11,50",0
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Barren,TG Allgäu,"Urbin, Stephan","3,5","12,30",1
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Barren,TG Wangen-Eisenharz,"Drechsel, Manuel","3,5","12,15",0
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Reck,TG Allgäu,"Eisenring, Linus","3,1","11,45",3
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Reck,TG Wangen-Eisenharz,"Müller, Hannes","2,6","10,85",0
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Reck,TG Allgäu,"Gottwald, Julian","3,0","10,85",2
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Reck,TG Wangen-Eisenharz,"von Kirn, Julian","2,5","10,35",0
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Reck,TG Allgäu,"Urbin, Michael","3,5","11,75",4
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Reck,TG Wangen-Eisenharz,"Kimmerle, Felix","2,7","10,15",0
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Reck,TG Allgäu,"Zurlini, Umberto","4,3","12,25",3
+11.11.2023,TG Allgäu - TG Wangen-Eisenharz,Reck,TG Wangen-Eisenharz,"Drechsel, Manuel","3,1","11,70",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Boden,TG Wangen-Eisenharz,"Mittmann, Moritz","3,3","11,80",3
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Boden,KTT Heilbronn,"Schaaf, Jonas","3,7","11,05",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Boden,TG Wangen-Eisenharz,"Ruf, Elias","3,8","11,40",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Boden,KTT Heilbronn,"Hofmann, Jakob","3,9","12,10",3
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Boden,TG Wangen-Eisenharz,"Drechsel, Manuel","4,0","11,70",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Boden,KTT Heilbronn,"Thiele, Moritz","3,4","11,65",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Boden,TG Wangen-Eisenharz,"von Kirn, Julian","4,4","12,70",5
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Boden,KTT Heilbronn,"Payer, Stefan","4,0","10,20",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Pferd,TG Wangen-Eisenharz,"Kimmerle, Felix","3,1","10,65",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Pferd,KTT Heilbronn,"Schuster, Axel","2,9","10,90",1
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Pferd,TG Wangen-Eisenharz,"Ruf, Elias","2,7","9,80",1
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Pferd,KTT Heilbronn,"Hofmann, Jakob","3,4","9,60",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Pferd,TG Wangen-Eisenharz,"Mittmann, Moritz","3,1","11,25",5
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Pferd,KTT Heilbronn,"Thiele, Moritz","2,6","7,80",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Pferd,TG Wangen-Eisenharz,"Schober, Pascal","4,2","11,00",5
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Pferd,KTT Heilbronn,"Braun, Dominik","2,9","7,40",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Ringe,TG Wangen-Eisenharz,"Teiber, Jakob","3,5","10,50",3
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Ringe,KTT Heilbronn,"Payer, Stefan","2,9","9,60",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Ringe,TG Wangen-Eisenharz,"Ruf, Elias","3,8","11,45",4
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Ringe,KTT Heilbronn,"Schaaf, Jonas","2,8","10,35",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Ringe,TG Wangen-Eisenharz,"Drechsel, Manuel","3,5","10,95",4
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Ringe,KTT Heilbronn,"Staufert, Colin","2,6","9,00",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Ringe,TG Wangen-Eisenharz,"Steinhauser, Nico","3,2","11,55",5
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Ringe,KTT Heilbronn,"Storz, Patrick","2,7","7,35",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Sprung,TG Wangen-Eisenharz,"Ruf, Elias","3,2","12,10",1
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Sprung,KTT Heilbronn,"Binder, Julius","3,2","11,90",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Sprung,TG Wangen-Eisenharz,"Kimmerle, Felix","3,2","11,50",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Sprung,KTT Heilbronn,"Thiele, Moritz","3,2","11,40",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Sprung,TG Wangen-Eisenharz,"Drechsel, Manuel","4,0","12,75",3
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Sprung,KTT Heilbronn,"Payer, Stefan","3,2","11,90",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Sprung,TG Wangen-Eisenharz,"von Kirn, Julian","3,2","12,00",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Sprung,KTT Heilbronn,"Hofmann, Jakob","4,0","12,55",3
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Barren,TG Wangen-Eisenharz,"Kimmerle, Felix","3,3","11,05",2
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Barren,KTT Heilbronn,"Schaaf, Jonas","2,5","10,70",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Barren,TG Wangen-Eisenharz,"Drechsel, Manuel","3,8","11,10",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Barren,KTT Heilbronn,"Storz, Patrick","2,4","11,30",1
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Barren,TG Wangen-Eisenharz,"Mittmann, Moritz","3,5","12,05",4
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Barren,KTT Heilbronn,"Staufert, Colin","2,4","10,45",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Barren,TG Wangen-Eisenharz,"Schober, Pascal","3,7","11,15",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Barren,KTT Heilbronn,"Schuster, Axel","2,5","11,30",1
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Reck,TG Wangen-Eisenharz,"Kimmerle, Felix","2,7","10,90",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Reck,KTT Heilbronn,"Schaaf, Jonas","2,9","10,80",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Reck,TG Wangen-Eisenharz,"von Kirn, Julian","2,5","10,75",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Reck,KTT Heilbronn,"Schuster, Axel","2,1","10,80",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Reck,TG Wangen-Eisenharz,"Drechsel, Manuel","3,1","11,40",4
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Reck,KTT Heilbronn,"Payer, Stefan","2,6","9,90",0
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Reck,TG Wangen-Eisenharz,"Ruf, Elias","3,0","11,05",3
+30.09.2023,TG Wangen-Eisenharz - KTT Heilbronn,Reck,KTT Heilbronn,"Hofmann, Jakob","2,0","10,15",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Boden,TG Wangen-Eisenharz,"von Kirn, Julian","4,3","11,75",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Boden,TSG Backnang,"Cocks, Jonathan","3,8","11,75",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Boden,TG Wangen-Eisenharz,"Ruf, Elias","4,0","9,75",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Boden,TSG Backnang,"Kuhn, Björn","3,5","11,55",4
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Boden,TG Wangen-Eisenharz,"Mittmann, Moritz","3,4","11,45",2
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Boden,TSG Backnang,"Böckheler, Urs","3,6","11,15",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Boden,TG Wangen-Eisenharz,"Drechsel, Manuel","4,0","11,85",4
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Boden,TSG Backnang,"Tasol, Tim","3,7","10,10",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Pferd,TG Wangen-Eisenharz,"Kimmerle, Felix","3,1","11,05",4
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Pferd,TSG Backnang,"Ellinger, Florian","2,7","9,70",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Pferd,TG Wangen-Eisenharz,"Ruf, Elias","2,7","10,60",5
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Pferd,TSG Backnang,"Wullert, Bastian","2,6","5,40",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Pferd,TG Wangen-Eisenharz,"Schober, Pascal","3,7","9,70",5
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Pferd,TSG Backnang,"Kuhn, Björn","2,6","7,45",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Pferd,TG Wangen-Eisenharz,"Mittmann, Moritz","4,1","12,15",4
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Pferd,TSG Backnang,"Cocks, Jonathan","3,0","10,40",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Ringe,TG Wangen-Eisenharz,"Teiber, Jakob","3,5","11,00",3
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Ringe,TSG Backnang,"Bauer, Timo","2,7","10,25",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Ringe,TG Wangen-Eisenharz,"Drechsel, Manuel","3,4","11,50",4
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Ringe,TSG Backnang,"Ellinger, Florian","3,1","10,30",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Ringe,TG Wangen-Eisenharz,"Steinhauser, Nico","3,2","11,60",3
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Ringe,TSG Backnang,"Kuhn, Björn","3,2","10,65",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Ringe,TG Wangen-Eisenharz,"Ruf, Elias","4,0","10,30",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Ringe,TSG Backnang,"Wullert, Bastian","2,9","10,65",2
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Sprung,TG Wangen-Eisenharz,"von Kirn, Julian","3,2","11,95",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Sprung,TSG Backnang,"Tasol, Tim","4,0","13,05",4
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Sprung,TG Wangen-Eisenharz,"Ruf, Elias","4,0","12,70",3
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Sprung,TSG Backnang,"Fischer, Tom","3,2","11,90",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Sprung,TG Wangen-Eisenharz,"Drechsel, Manuel","4,0","12,55",2
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Sprung,TSG Backnang,"Kuhn, Björn","3,2","12,05",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Sprung,TG Wangen-Eisenharz,"Kimmerle, Felix","4,0","12,40",2
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Sprung,TSG Backnang,"Cocks, Jonathan","3,2","12,00",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Barren,TG Wangen-Eisenharz,"Mittmann, Moritz","3,4","9,30",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Barren,TSG Backnang,"Kuhn, Björn","2,7","11,55",5
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Barren,TG Wangen-Eisenharz,"Ruf, Elias","3,3","11,50",2
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Barren,TSG Backnang,"Ellinger, Florian","2,5","11,10",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Barren,TG Wangen-Eisenharz,"Schober, Pascal","3,7","12,05",3
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Barren,TSG Backnang,"Tasol, Tim","2,5","11,25",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Barren,TG Wangen-Eisenharz,"Drechsel, Manuel","3,5","11,85",3
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Barren,TSG Backnang,"Dörksen, Luca","3,0","11,25",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Reck,TG Wangen-Eisenharz,"Kimmerle, Felix","2,9","11,05",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Reck,TSG Backnang,"Wullert, Bastian","2,5","10,95",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Reck,TG Wangen-Eisenharz,"Ruchti, Finn","3,0","10,40",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Reck,TSG Backnang,"Kuhn, Björn","2,6","11,05",3
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Reck,TG Wangen-Eisenharz,"Ruf, Elias","2,9","9,85",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Reck,TSG Backnang,"Ellinger, Florian","2,5","9,75",0
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Reck,TG Wangen-Eisenharz,"Drechsel, Manuel","2,7","9,25",10
+14.10.2023,TG Wangen-Eisenharz - TSG Backnang,Reck,TSG Backnang,"Cocks, Jonathan","2,2","2,90",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Boden,TG Wangen-Eisenharz,"von Kirn, Julian","4,3","11,65",1
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Boden,TSV Unterföhring,"Bircks, Oliver","3,8","11,40",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Boden,TG Wangen-Eisenharz,"Mittmann, Moritz","3,3","11,05",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Boden,TSV Unterföhring,"Isztl, Daniel","3,5","11,30",1
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Boden,TG Wangen-Eisenharz,"Drechsel, Manuel","4,0","11,10",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Boden,TSV Unterföhring,"Miggitsch, Martin","4,6","12,45",4
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Boden,TG Wangen-Eisenharz,"Ruchti, Finn","3,8","10,35",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Boden,TSV Unterföhring,"Wolf, Sebastian","3,9","10,60",1
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Pferd,TG Wangen-Eisenharz,"Kimmerle, Felix","3,1","9,95",2
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Pferd,TSV Unterföhring,"Eiglmeier, Christoph","2,6","9,45",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Pferd,TG Wangen-Eisenharz,"Schober, Pascal","3,4","8,00",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Pferd,TSV Unterföhring,"Miggitsch, Martin","3,9","11,65",5
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Pferd,TG Wangen-Eisenharz,"Mittmann, Moritz","3,9","12,05",5
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Pferd,TSV Unterföhring,"Bircks, Oliver","2,5","9,00",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Pferd,TG Wangen-Eisenharz,"Ruf, Elias","2,7","9,50",3
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Pferd,TSV Unterföhring,"Schweiger, Samuel","3,0","8,65",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Ringe,TG Wangen-Eisenharz,"Drechsel, Manuel","3,3","10,35",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Ringe,TSV Unterföhring,"Bircks, Florian","2,4","10,30",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Ringe,TG Wangen-Eisenharz,"Ruf, Elias","3,5","9,75",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Ringe,TSV Unterföhring,"Bircks, Oliver","2,9","10,90",4
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Ringe,TG Wangen-Eisenharz,"Teiber, Jakob","3,5","10,80",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Ringe,TSV Unterföhring,"Eiglmeier, Christoph","3,3","10,90",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Ringe,TG Wangen-Eisenharz,"Steinhauser, Nico","3,1","11,45",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Ringe,TSV Unterföhring,"Zander, Daniel","5,1","13,50",5
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Sprung,TG Wangen-Eisenharz,"Ruf, Elias","4,0","11,05",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Sprung,TSV Unterföhring,"Bircks, Oliver","4,0","12,60",4
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Sprung,TG Wangen-Eisenharz,"Kimmerle, Felix","4,0","12,95",2
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Sprung,TSV Unterföhring,"Eiglmeier, Christoph","4,0","12,55",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Sprung,TG Wangen-Eisenharz,"von Kirn, Julian","3,2","12,20",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Sprung,TSV Unterföhring,"Miggitsch, Martin","4,8","13,50",4
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Sprung,TG Wangen-Eisenharz,"Drechsel, Manuel","4,0","12,80",4
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Sprung,TSV Unterföhring,"Bircks, Florian","4,8","11,40",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Barren,TG Wangen-Eisenharz,"Mittmann, Moritz","3,5","12,30",3
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Barren,TSV Unterföhring,"Bircks, Oliver","2,5","11,65",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Barren,TG Wangen-Eisenharz,"Kimmerle, Felix","3,3","11,60",1
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Barren,TSV Unterföhring,"Isztl, Daniel","3,2","11,35",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Barren,TG Wangen-Eisenharz,"Schober, Pascal","3,7","11,45",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Barren,TSV Unterföhring,"Zander, Daniel","3,8","12,70",4
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Barren,TG Wangen-Eisenharz,"Drechsel, Manuel","3,5","11,90",10
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Barren,TSV Unterföhring,"Eiglmeier, Christoph","2,2","4,00",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Reck,TG Wangen-Eisenharz,"Kimmerle, Felix","2,7","10,40",1
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Reck,TSV Unterföhring,"Isztl, Daniel","2,9","10,25",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Reck,TG Wangen-Eisenharz,"Drechsel, Manuel","3,1","11,05",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Reck,TSV Unterföhring,"Marin Ogalla, Pablo","3,6","12,00",3
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Reck,TG Wangen-Eisenharz,"Ruf, Elias","3,0","11,15",2
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Reck,TSV Unterföhring,"Bircks, Oliver","2,8","10,85",0
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Reck,TG Wangen-Eisenharz,"von Kirn, Julian","2,6","10,85",3
+28.10.2023,TG Wangen-Eisenharz - TSV Unterföhring,Reck,TSV Unterföhring,"Wolf, Sebastian","2,9","10,30",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Boden,TSG Backnang,"Böckheler, Urs","3,6","11,25",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Boden,Grötzingen-Karlsruhe,"Richter, Marco","3,7","11,70",2
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Boden,TSG Backnang,"Kuhn, Björn","3,4","10,15",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Boden,Grötzingen-Karlsruhe,"Weiss, Sverre","3,9","12,00",4
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Boden,TSG Backnang,"Cocks, Jonathan","3,8","11,30",3
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Boden,Grötzingen-Karlsruhe,"Kramer, Julius","3,3","10,30",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Boden,TSG Backnang,"Sirosh, Nikita","4,3","11,70",3
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Boden,Grötzingen-Karlsruhe,"Bertsch, Julian","3,1","11,05",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Pferd,TSG Backnang,"Kuhn, Björn","2,7","10,65",5
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Pferd,Grötzingen-Karlsruhe,"Rudat, Jens","2,8","7,65",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Pferd,TSG Backnang,"Ellinger, Florian","2,7","9,55",2
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Pferd,Grötzingen-Karlsruhe,"Roth, Tobias","2,5","9,15",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Pferd,TSG Backnang,"Wullert, Bastian","2,8","10,35",5
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Pferd,Grötzingen-Karlsruhe,"Richter, Marco","2,4","7,70",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Pferd,TSG Backnang,"Cocks, Jonathan","2,5","8,80",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Pferd,Grötzingen-Karlsruhe,"Brücher, Björn","2,6","10,05",4
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Ringe,TSG Backnang,"Bauer, Timo","2,7","9,90",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Ringe,Grötzingen-Karlsruhe,"Roth, Tobias","2,5","10,65",3
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Ringe,TSG Backnang,"Wullert, Bastian","2,6","9,70",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Ringe,Grötzingen-Karlsruhe,"Huber, Leo","2,9","10,15",2
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Ringe,TSG Backnang,"Ellinger, Florian","3,0","9,95",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Ringe,Grötzingen-Karlsruhe,"Brücher, Björn","2,5","10,00",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Ringe,TSG Backnang,"Kuhn, Björn","3,2","9,60",3
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Ringe,Grötzingen-Karlsruhe,"Bertsch, Julian","2,6","8,95",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Sprung,TSG Backnang,"Kuhn, Björn","3,2","12,00",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Sprung,Grötzingen-Karlsruhe,"Kramer, Julius","3,2","12,10",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Sprung,TSG Backnang,"Cocks, Jonathan","3,2","11,90",2
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Sprung,Grötzingen-Karlsruhe,"Huber, Leo","2,4","11,45",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Sprung,TSG Backnang,"Fischer, Tom","3,2","11,90",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Sprung,Grötzingen-Karlsruhe,"Eder, Neyén Eitan","3,2","12,20",2
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Sprung,TSG Backnang,"Tasol, Tim","4,0","12,45",3
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Sprung,Grötzingen-Karlsruhe,"Schneider, Sebastian","3,2","11,50",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Barren,TSG Backnang,"Ellinger, Florian","2,5","10,65",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Barren,Grötzingen-Karlsruhe,"Bratan, Lazar","2,6","11,15",2
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Barren,TSG Backnang,"Dörksen, Luca","3,0","11,80",2
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Barren,Grötzingen-Karlsruhe,"Huber, Leo","3,0","11,35",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Barren,TSG Backnang,"Kuhn, Björn","2,7","11,95",3
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Barren,Grötzingen-Karlsruhe,"Kramer, Julius","2,4","11,30",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Barren,TSG Backnang,"Sirosh, Nikita","3,4","11,05",2
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Barren,Grötzingen-Karlsruhe,"Bertsch, Julian","2,5","10,70",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Reck,TSG Backnang,"Kuhn, Björn","2,6","11,40",2
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Reck,Grötzingen-Karlsruhe,"Bratan, Lazar","3,1","10,90",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Reck,TSG Backnang,"Wullert, Bastian","2,5","11,40",1
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Reck,Grötzingen-Karlsruhe,"Weiss, Sverre","2,9","11,25",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Reck,TSG Backnang,"Ellinger, Florian","2,5","10,15",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Reck,Grötzingen-Karlsruhe,"Roth, Tobias","2,5","10,65",2
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Reck,TSG Backnang,"Cocks, Jonathan","2,5","10,35",0
+23.09.2023,TSG Backnang - Grötzingen-Karlsruhe,Reck,Grötzingen-Karlsruhe,"Kramer, Julius","2,4","10,55",1
+21.10.2023,TSG Backnang - KTV Hohenlohe,Boden,TSG Backnang,"Böckheler, Urs","3,6","11,60",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Boden,KTV Hohenlohe,"Albrecht, Jonas","3,8","11,65",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Boden,TSG Backnang,"Kuhn, Björn","3,5","10,55",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Boden,KTV Hohenlohe,"Philippiak, Ron","3,5","11,30",3
+21.10.2023,TSG Backnang - KTV Hohenlohe,Boden,TSG Backnang,"Cocks, Jonathan","3,8","11,80",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Boden,KTV Hohenlohe,"Bickel, David","5,4","13,60",4
+21.10.2023,TSG Backnang - KTV Hohenlohe,Boden,TSG Backnang,"Sirosh, Nikita","4,3","12,00",1
+21.10.2023,TSG Backnang - KTV Hohenlohe,Boden,KTV Hohenlohe,"Schmidt, Micha Joel","3,6","11,85",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Pferd,TSG Backnang,"Wullert, Bastian","2,8","10,75",3
+21.10.2023,TSG Backnang - KTV Hohenlohe,Pferd,KTV Hohenlohe,"Bortt, Silas","2,6","10,15",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Pferd,TSG Backnang,"Al-Dulaimi, Yasir","3,2","9,35",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Pferd,KTV Hohenlohe,"Albrecht, Jonas","2,6","9,95",3
+21.10.2023,TSG Backnang - KTV Hohenlohe,Pferd,TSG Backnang,"Ellinger, Florian","2,4","6,40",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Pferd,KTV Hohenlohe,"Pfleger, Julian","2,6","9,35",5
+21.10.2023,TSG Backnang - KTV Hohenlohe,Pferd,TSG Backnang,"Kuhn, Björn","2,7","10,45",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Pferd,KTV Hohenlohe,"Vetter, Gino","3,9","11,85",4
+21.10.2023,TSG Backnang - KTV Hohenlohe,Ringe,TSG Backnang,"Wullert, Bastian","2,9","10,30",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Ringe,KTV Hohenlohe,"Bortt, Silas","3,0","10,20",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Ringe,TSG Backnang,"Ellinger, Florian","3,4","10,50",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Ringe,KTV Hohenlohe,"Philippiak, Ron","2,6","10,70",1
+21.10.2023,TSG Backnang - KTV Hohenlohe,Ringe,TSG Backnang,"Bauer, Timo","2,6","10,10",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Ringe,KTV Hohenlohe,"Vetter, Gino","3,6","12,30",5
+21.10.2023,TSG Backnang - KTV Hohenlohe,Ringe,TSG Backnang,"Kuhn, Björn","3,2","10,55",1
+21.10.2023,TSG Backnang - KTV Hohenlohe,Ringe,KTV Hohenlohe,"Bogdahn, Michael","2,6","10,35",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Sprung,TSG Backnang,"Kuhn, Björn","3,2","11,60",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Sprung,KTV Hohenlohe,"Bortt, Jan-Moritz","3,2","11,80",1
+21.10.2023,TSG Backnang - KTV Hohenlohe,Sprung,TSG Backnang,"Tasol, Tim","4,0","12,70",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Sprung,KTV Hohenlohe,"Albrecht, Jonas","4,0","12,80",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Sprung,TSG Backnang,"Fischer, Tom","3,2","11,85",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Sprung,KTV Hohenlohe,"Schmidt, Micha Joel","3,2","12,05",1
+21.10.2023,TSG Backnang - KTV Hohenlohe,Sprung,TSG Backnang,"Cocks, Jonathan","3,2","11,70",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Sprung,KTV Hohenlohe,"Bickel, David","4,0","12,70",3
+21.10.2023,TSG Backnang - KTV Hohenlohe,Barren,TSG Backnang,"Ellinger, Florian","2,5","11,45",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Barren,KTV Hohenlohe,"Philippiak, Ron","2,9","11,55",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Barren,TSG Backnang,"Tasol, Tim","2,5","11,60",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Barren,KTV Hohenlohe,"Bortt, Silas","2,5","11,55",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Barren,TSG Backnang,"Al-Dulaimi, Yasir","4,2","12,15",3
+21.10.2023,TSG Backnang - KTV Hohenlohe,Barren,KTV Hohenlohe,"Bogdahn, Michael","2,5","11,30",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Barren,TSG Backnang,"Kuhn, Björn","2,7","11,80",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Barren,KTV Hohenlohe,"Bickel, David","4,5","12,55",3
+21.10.2023,TSG Backnang - KTV Hohenlohe,Reck,TSG Backnang,"Kuhn, Björn","2,6","11,00",2
+21.10.2023,TSG Backnang - KTV Hohenlohe,Reck,KTV Hohenlohe,"Schmidt, Micha Joel","2,6","10,65",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Reck,TSG Backnang,"Wullert, Bastian","2,5","10,95",3
+21.10.2023,TSG Backnang - KTV Hohenlohe,Reck,KTV Hohenlohe,"Philippiak, Ron","3,1","10,10",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Reck,TSG Backnang,"Ellinger, Florian","2,5","10,55",0
+21.10.2023,TSG Backnang - KTV Hohenlohe,Reck,KTV Hohenlohe,"Bortt, Silas","2,5","10,90",2
+21.10.2023,TSG Backnang - KTV Hohenlohe,Reck,TSG Backnang,"Al-Dulaimi, Yasir","3,7","11,95",4
+21.10.2023,TSG Backnang - KTV Hohenlohe,Reck,KTV Hohenlohe,"Vetter, Gino","3,3","10,25",0
+07.10.2023,TSG Backnang - TG Allgäu,Boden,TSG Backnang,"Böckheler, Urs","3,6","11,30",0
+07.10.2023,TSG Backnang - TG Allgäu,Boden,TG Allgäu,"Krapp, Kilian","4,4","11,95",3
+07.10.2023,TSG Backnang - TG Allgäu,Boden,TSG Backnang,"Cocks, Jonathan","3,8","10,80",0
+07.10.2023,TSG Backnang - TG Allgäu,Boden,TG Allgäu,"Urbin, Michael","3,9","11,70",3
+07.10.2023,TSG Backnang - TG Allgäu,Boden,TSG Backnang,"Kuhn, Björn","3,4","11,05",0
+07.10.2023,TSG Backnang - TG Allgäu,Boden,TG Allgäu,"Viehmann, Bastian","3,9","11,55",2
+07.10.2023,TSG Backnang - TG Allgäu,Boden,TSG Backnang,"Sirosh, Nikita","4,4","11,75",0
+07.10.2023,TSG Backnang - TG Allgäu,Boden,TG Allgäu,"Zurlini, Umberto","5,8","12,40",3
+07.10.2023,TSG Backnang - TG Allgäu,Pferd,TSG Backnang,"Wullert, Bastian","3,3","10,00",0
+07.10.2023,TSG Backnang - TG Allgäu,Pferd,TG Allgäu,"Eisenring, Linus","4,0","12,40",5
+07.10.2023,TSG Backnang - TG Allgäu,Pferd,TSG Backnang,"Kuhn, Björn","2,7","10,45",0
+07.10.2023,TSG Backnang - TG Allgäu,Pferd,TG Allgäu,"Gottwald, Julian","2,8","10,45",0
+07.10.2023,TSG Backnang - TG Allgäu,Pferd,TSG Backnang,"Ellinger, Florian","2,7","7,05",0
+07.10.2023,TSG Backnang - TG Allgäu,Pferd,TG Allgäu,"Krapp, Kilian","2,7","9,50",5
+07.10.2023,TSG Backnang - TG Allgäu,Pferd,TSG Backnang,"Cocks, Jonathan","2,6","9,25",0
+07.10.2023,TSG Backnang - TG Allgäu,Pferd,TG Allgäu,"Zurlini, Umberto","5,3","12,50",5
+07.10.2023,TSG Backnang - TG Allgäu,Ringe,TSG Backnang,"Bauer, Timo","2,6","9,50",0
+07.10.2023,TSG Backnang - TG Allgäu,Ringe,TG Allgäu,"Eisenring, Linus","3,5","11,80",5
+07.10.2023,TSG Backnang - TG Allgäu,Ringe,TSG Backnang,"Sirosh, Nikita","3,3","9,55",0
+07.10.2023,TSG Backnang - TG Allgäu,Ringe,TG Allgäu,"Viehmann, Bastian","3,2","10,25",3
+07.10.2023,TSG Backnang - TG Allgäu,Ringe,TSG Backnang,"Ellinger, Florian","3,2","10,80",1
+07.10.2023,TSG Backnang - TG Allgäu,Ringe,TG Allgäu,"Eberle, Maximilian","3,3","10,65",0
+07.10.2023,TSG Backnang - TG Allgäu,Ringe,TSG Backnang,"Wullert, Bastian","2,9","10,70",0
+07.10.2023,TSG Backnang - TG Allgäu,Ringe,TG Allgäu,"Zurlini, Umberto","4,3","13,10",5
+07.10.2023,TSG Backnang - TG Allgäu,Sprung,TSG Backnang,"Blessing, Max","3,2","11,60",0
+07.10.2023,TSG Backnang - TG Allgäu,Sprung,TG Allgäu,"Urbin, Michael","4,0","12,15",3
+07.10.2023,TSG Backnang - TG Allgäu,Sprung,TSG Backnang,"Kuhn, Björn","3,2","11,90",0
+07.10.2023,TSG Backnang - TG Allgäu,Sprung,TG Allgäu,"Eisenring, Linus","4,0","12,30",2
+07.10.2023,TSG Backnang - TG Allgäu,Sprung,TSG Backnang,"Cocks, Jonathan","1,6","10,90",0
+07.10.2023,TSG Backnang - TG Allgäu,Sprung,TG Allgäu,"Zurlini, Umberto","5,2","12,90",4
+07.10.2023,TSG Backnang - TG Allgäu,Sprung,TSG Backnang,"Böckheler, Urs","3,2","12,45",0
+07.10.2023,TSG Backnang - TG Allgäu,Sprung,TG Allgäu,"Krapp, Kilian","4,4","13,20",3
+07.10.2023,TSG Backnang - TG Allgäu,Barren,TSG Backnang,"Dörksen, Luca","3,0","11,80",0
+07.10.2023,TSG Backnang - TG Allgäu,Barren,TG Allgäu,"Urbin, Michael","3,3","11,90",0
+07.10.2023,TSG Backnang - TG Allgäu,Barren,TSG Backnang,"Kuhn, Björn","2,7","11,70",0
+07.10.2023,TSG Backnang - TG Allgäu,Barren,TG Allgäu,"Krapp, Kilian","3,2","11,95",1
+07.10.2023,TSG Backnang - TG Allgäu,Barren,TSG Backnang,"Ellinger, Florian","2,5","11,50",0
+07.10.2023,TSG Backnang - TG Allgäu,Barren,TG Allgäu,"Zurlini, Umberto","4,2","11,90",2
+07.10.2023,TSG Backnang - TG Allgäu,Barren,TSG Backnang,"Blessing, Max","3,0","11,15",2
+07.10.2023,TSG Backnang - TG Allgäu,Barren,TG Allgäu,"Haydn, Stefan","3,4","10,65",0
+07.10.2023,TSG Backnang - TG Allgäu,Reck,TSG Backnang,"Kuhn, Björn","2,6","11,10",0
+07.10.2023,TSG Backnang - TG Allgäu,Reck,TG Allgäu,"Urbin, Michael","3,5","11,90",3
+07.10.2023,TSG Backnang - TG Allgäu,Reck,TSG Backnang,"Wullert, Bastian","2,5","11,15",0
+07.10.2023,TSG Backnang - TG Allgäu,Reck,TG Allgäu,"Zurlini, Umberto","4,3","12,15",3
+07.10.2023,TSG Backnang - TG Allgäu,Reck,TSG Backnang,"Al-Dulaimi, Yasir","3,6","11,85",0
+07.10.2023,TSG Backnang - TG Allgäu,Reck,TG Allgäu,"Gottwald, Julian","3,2","11,75",0
+07.10.2023,TSG Backnang - TG Allgäu,Reck,TSG Backnang,"Ellinger, Florian","2,5","10,50",0
+07.10.2023,TSG Backnang - TG Allgäu,Reck,TG Allgäu,"Krapp, Kilian","4,1","10,55",0
+11.11.2023,TSG Backnang - USC München,Boden,TSG Backnang,"Kuhn, Björn","3,5","11,70",3
+11.11.2023,TSG Backnang - USC München,Boden,USC München,"Huber, Paul","3,7","10,85",0
+11.11.2023,TSG Backnang - USC München,Boden,TSG Backnang,"Cocks, Jonathan","3,8","12,25",4
+11.11.2023,TSG Backnang - USC München,Boden,USC München,"Albert, Felix","3,2","10,85",0
+11.11.2023,TSG Backnang - USC München,Boden,TSG Backnang,"Sirosh, Nikita","4,3","11,85",4
+11.11.2023,TSG Backnang - USC München,Boden,USC München,"Huber, David","3,0","10,80",0
+11.11.2023,TSG Backnang - USC München,Boden,TSG Backnang,"Böckheler, Urs","3,7","11,75",0
+11.11.2023,TSG Backnang - USC München,Boden,USC München,"Röhr, Alessio","3,5","11,80",0
+11.11.2023,TSG Backnang - USC München,Pferd,TSG Backnang,"Kuhn, Björn","2,7","10,15",0
+11.11.2023,TSG Backnang - USC München,Pferd,USC München,"Seipl, Paul","2,5","10,10",0
+11.11.2023,TSG Backnang - USC München,Pferd,TSG Backnang,"Bölcke, Timo","3,7","10,90",3
+11.11.2023,TSG Backnang - USC München,Pferd,USC München,"Sans, Tassilo","2,7","10,15",0
+11.11.2023,TSG Backnang - USC München,Pferd,TSG Backnang,"Ellinger, Florian","2,2","4,30",0
+11.11.2023,TSG Backnang - USC München,Pferd,USC München,"Trattnig, Stephan","2,5","10,90",10
+11.11.2023,TSG Backnang - USC München,Pferd,TSG Backnang,"Cocks, Jonathan","2,6","9,80",0
+11.11.2023,TSG Backnang - USC München,Pferd,USC München,"Pfinder, Moritz","3,3","10,90",4
+11.11.2023,TSG Backnang - USC München,Ringe,TSG Backnang,"Bölcke, Timo","2,6","10,05",0
+11.11.2023,TSG Backnang - USC München,Ringe,USC München,"Huber, David","2,4","10,20",1
+11.11.2023,TSG Backnang - USC München,Ringe,TSG Backnang,"Ellinger, Florian","3,2","11,15",3
+11.11.2023,TSG Backnang - USC München,Ringe,USC München,"Huber, Paul","2,9","10,45",0
+11.11.2023,TSG Backnang - USC München,Ringe,TSG Backnang,"Sirosh, Nikita","2,8","10,25",0
+11.11.2023,TSG Backnang - USC München,Ringe,USC München,"Hechtl, Dominik","3,1","11,05",3
+11.11.2023,TSG Backnang - USC München,Ringe,TSG Backnang,"Blessing, Max","2,7","8,90",0
+11.11.2023,TSG Backnang - USC München,Ringe,USC München,"Röhr, Alessio","2,4","10,30",4
+11.11.2023,TSG Backnang - USC München,Sprung,TSG Backnang,"Cocks, Jonathan","3,2","11,60",0
+11.11.2023,TSG Backnang - USC München,Sprung,USC München,"Röhr, Alessio","4,0","12,05",2
+11.11.2023,TSG Backnang - USC München,Sprung,TSG Backnang,"Fischer, Tom","3,2","11,70",5
+11.11.2023,TSG Backnang - USC München,Sprung,USC München,"Huber, Paul","2,8","9,30",0
+11.11.2023,TSG Backnang - USC München,Sprung,TSG Backnang,"Kuhn, Björn","3,2","11,55",0
+11.11.2023,TSG Backnang - USC München,Sprung,USC München,"Albert, Felix","3,2","11,45",0
+11.11.2023,TSG Backnang - USC München,Sprung,TSG Backnang,"Tasol, Tim","4,0","12,60",4
+11.11.2023,TSG Backnang - USC München,Sprung,USC München,"Trattnig, Stephan","4,0","11,45",0
+11.11.2023,TSG Backnang - USC München,Barren,TSG Backnang,"Tasol, Tim","2,5","11,10",1
+11.11.2023,TSG Backnang - USC München,Barren,USC München,"Huber, David","2,5","10,85",0
+11.11.2023,TSG Backnang - USC München,Barren,TSG Backnang,"Kuhn, Björn","2,7","11,15",3
+11.11.2023,TSG Backnang - USC München,Barren,USC München,"Huber, Paul","2,5","10,15",0
+11.11.2023,TSG Backnang - USC München,Barren,TSG Backnang,"Al-Dulaimi, Yasir","4,2","10,55",0
+11.11.2023,TSG Backnang - USC München,Barren,USC München,"Albert, Felix","2,4","10,90",2
+11.11.2023,TSG Backnang - USC München,Barren,TSG Backnang,"Ellinger, Florian","3,0","10,45",0
+11.11.2023,TSG Backnang - USC München,Barren,USC München,"Trattnig, Stephan","2,5","11,50",4
+11.11.2023,TSG Backnang - USC München,Reck,TSG Backnang,"Kuhn, Björn","2,6","10,60",3
+11.11.2023,TSG Backnang - USC München,Reck,USC München,"Albert, Felix","2,4","10,00",0
+11.11.2023,TSG Backnang - USC München,Reck,TSG Backnang,"Bölcke, Timo","2,5","10,60",2
+11.11.2023,TSG Backnang - USC München,Reck,USC München,"Trattnig, Stephan","2,4","10,25",0
+11.11.2023,TSG Backnang - USC München,Reck,TSG Backnang,"Al-Dulaimi, Yasir","3,2","9,85",0
+11.11.2023,TSG Backnang - USC München,Reck,USC München,"Röhr, Alessio","2,5","10,05",1
+11.11.2023,TSG Backnang - USC München,Reck,TSG Backnang,"Ellinger, Florian","2,5","10,45",0
+11.11.2023,TSG Backnang - USC München,Reck,USC München,"Hechtl, Dominik","2,5","10,50",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Boden,TSV Unterföhring,"Isztl, Daniel","3,5","10,95",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Boden,KTV Hohenlohe,"Schmidt, Micha Joel","3,5","11,30",2
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Boden,TSV Unterföhring,"Bircks, Oliver","3,8","12,05",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Boden,KTV Hohenlohe,"Vetter, Gino","5,1","13,25",4
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Boden,TSV Unterföhring,"Wolf, Sebastian","3,8","10,90",2
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Boden,KTV Hohenlohe,"Albrecht, Jonas","3,8","10,50",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Boden,TSV Unterföhring,"Miggitsch, Martin","4,6","11,35",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Boden,KTV Hohenlohe,"Philippiak, Ron","3,5","11,65",2
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Pferd,TSV Unterföhring,"Eiglmeier, Christoph","2,5","9,55",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Pferd,KTV Hohenlohe,"Bortt, Jan-Moritz","2,5","10,10",3
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Pferd,TSV Unterföhring,"Wolf, Sebastian","2,8","9,75",5
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Pferd,KTV Hohenlohe,"Pfleger, Julian","2,3","6,75",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Pferd,TSV Unterföhring,"Bircks, Oliver","2,5","9,30",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Pferd,KTV Hohenlohe,"Bickel, David","3,7","11,60",5
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Pferd,TSV Unterföhring,"Miggitsch, Martin","3,8","11,95",4
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Pferd,KTV Hohenlohe,"Bortt, Silas","2,6","10,45",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Ringe,TSV Unterföhring,"Eiglmeier, Christoph","3,3","10,85",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Ringe,KTV Hohenlohe,"Vetter, Gino","4,3","12,60",4
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Ringe,TSV Unterföhring,"Bircks, Oliver","2,9","11,20",2
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Ringe,KTV Hohenlohe,"Philippiak, Ron","2,6","10,75",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Ringe,TSV Unterföhring,"Zander, Daniel","5,1","12,45",5
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Ringe,KTV Hohenlohe,"Bogdahn, Michael","2,6","10,40",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Ringe,TSV Unterföhring,"Wolf, Sebastian","1,8","9,05",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Ringe,KTV Hohenlohe,"Hofmann, Benjamin","2,5","10,60",4
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Sprung,TSV Unterföhring,"Bircks, Oliver","4,0","12,20",1
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Sprung,KTV Hohenlohe,"Schmidt, Micha Joel","3,2","12,00",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Sprung,TSV Unterföhring,"Gartner, Florian","3,2","10,65",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Sprung,KTV Hohenlohe,"Albrecht, Jonas","4,0","11,15",2
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Sprung,TSV Unterföhring,"Eiglmeier, Christoph","4,0","12,95",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Sprung,KTV Hohenlohe,"Vetter, Gino","4,8","13,85",3
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Sprung,TSV Unterföhring,"Miggitsch, Martin","4,8","13,35",3
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Sprung,KTV Hohenlohe,"Philippiak, Ron","4,0","12,55",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Barren,TSV Unterföhring,"Isztl, Daniel","3,2","11,15",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Barren,KTV Hohenlohe,"Schmidt, Philipp","2,4","11,20",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Barren,TSV Unterföhring,"Bircks, Oliver","2,6","11,10",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Barren,KTV Hohenlohe,"Vetter, Gino","4,4","11,35",1
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Barren,TSV Unterföhring,"Kurzmann, Jakob","2,4","8,15",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Barren,KTV Hohenlohe,"Philippiak, Ron","2,9","11,05",5
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Barren,TSV Unterföhring,"Zander, Daniel","3,8","11,85",2
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Barren,KTV Hohenlohe,"Bortt, Silas","2,5","11,40",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Reck,TSV Unterföhring,"Marin Ogalla, Pablo","3,6","11,90",4
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Reck,KTV Hohenlohe,"Schmidt, Philipp","2,4","10,65",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Reck,TSV Unterföhring,"Wolf, Sebastian","2,9","9,85",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Reck,KTV Hohenlohe,"Vetter, Gino","3,2","10,40",3
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Reck,TSV Unterföhring,"Bircks, Oliver","3,1","9,95",3
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Reck,KTV Hohenlohe,"Philippiak, Ron","3,0","9,35",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Reck,TSV Unterföhring,"Isztl, Daniel","2,9","10,85",0
+11.11.2023,TSV Unterföhring - KTV Hohenlohe,Reck,KTV Hohenlohe,"Bortt, Silas","2,5","10,85",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Boden,TSV Unterföhring,"Isztl, Daniel","3,5","11,65",1
+21.10.2023,TSV Unterföhring - TG Allgäu,Boden,TG Allgäu,"Eberle, Stephan","3,9","11,40",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Boden,TSV Unterföhring,"Wolf, Sebastian","3,8","11,30",3
+21.10.2023,TSV Unterföhring - TG Allgäu,Boden,TG Allgäu,"Urbin, Michael","3,9","10,50",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Boden,TSV Unterföhring,"Miggitsch, Martin","4,7","13,00",5
+21.10.2023,TSV Unterföhring - TG Allgäu,Boden,TG Allgäu,"Krapp, Kilian","4,5","10,40",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Boden,TSV Unterföhring,"Bircks, Oliver","3,8","11,50",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Boden,TG Allgäu,"Kirmes, Oskar","5,1","13,50",4
+21.10.2023,TSV Unterföhring - TG Allgäu,Pferd,TSV Unterföhring,"Eiglmeier, Christoph","2,5","10,15",2
+21.10.2023,TSV Unterföhring - TG Allgäu,Pferd,TG Allgäu,"Eberle, Maximilian","2,6","9,65",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Pferd,TSV Unterföhring,"Schweiger, Samuel","2,4","6,30",5
+21.10.2023,TSV Unterföhring - TG Allgäu,Pferd,TG Allgäu,"Gottwald, Julian","2,0","3,50",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Pferd,TSV Unterföhring,"Bircks, Oliver","2,5","10,95",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Pferd,TG Allgäu,"Eberle, Stephan","3,2","11,35",2
+21.10.2023,TSV Unterföhring - TG Allgäu,Pferd,TSV Unterföhring,"Miggitsch, Martin","3,9","12,05",4
+21.10.2023,TSV Unterföhring - TG Allgäu,Pferd,TG Allgäu,"Kovacs, Marton","5,3","10,70",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Ringe,TSV Unterföhring,"Bircks, Oliver","2,9","11,55",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Ringe,TG Allgäu,"Kirmes, Oskar","4,6","13,65",5
+21.10.2023,TSV Unterföhring - TG Allgäu,Ringe,TSV Unterföhring,"Bircks, Florian","2,4","10,85",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Ringe,TG Allgäu,"Eberle, Maximilian","3,3","10,85",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Ringe,TSV Unterföhring,"Eiglmeier, Christoph","3,3","11,30",2
+21.10.2023,TSV Unterföhring - TG Allgäu,Ringe,TG Allgäu,"Viehmann, Bastian","3,5","10,85",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Ringe,TSV Unterföhring,"Zander, Daniel","5,3","14,00",5
+21.10.2023,TSV Unterföhring - TG Allgäu,Ringe,TG Allgäu,"Schreiber, Florian","3,3","8,50",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Sprung,TSV Unterföhring,"Miggitsch, Martin","4,8","13,65",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Sprung,TG Allgäu,"Krapp, Kilian","4,4","13,60",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Sprung,TSV Unterföhring,"Bircks, Florian","4,8","13,40",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Sprung,TG Allgäu,"Kirmes, Oskar","4,0","13,50",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Sprung,TSV Unterföhring,"Bircks, Oliver","4,0","12,70",3
+21.10.2023,TSV Unterföhring - TG Allgäu,Sprung,TG Allgäu,"Eberle, Stephan","4,0","11,90",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Sprung,TSV Unterföhring,"Eiglmeier, Christoph","4,0","12,90",4
+21.10.2023,TSV Unterföhring - TG Allgäu,Sprung,TG Allgäu,"Urbin, Michael","4,0","11,35",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Barren,TSV Unterföhring,"Bircks, Oliver","2,5","10,00",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Barren,TG Allgäu,"Krapp, Kilian","3,2","12,20",5
+21.10.2023,TSV Unterföhring - TG Allgäu,Barren,TSV Unterföhring,"Isztl, Daniel","3,2","11,45",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Barren,TG Allgäu,"Urbin, Michael","3,3","12,00",3
+21.10.2023,TSV Unterföhring - TG Allgäu,Barren,TSV Unterföhring,"Zander, Daniel","3,8","12,65",2
+21.10.2023,TSV Unterföhring - TG Allgäu,Barren,TG Allgäu,"Eberle, Stephan","3,2","12,20",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Barren,TSV Unterföhring,"Rabenstein, Julius","2,5","10,20",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Barren,TG Allgäu,"Kirmes, Oskar","5,0","14,05",5
+21.10.2023,TSV Unterföhring - TG Allgäu,Reck,TSV Unterföhring,"Bircks, Oliver","3,1","11,10",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Reck,TG Allgäu,"Urbin, Michael","3,6","12,40",4
+21.10.2023,TSV Unterföhring - TG Allgäu,Reck,TSV Unterföhring,"Marin Ogalla, Pablo","3,6","12,55",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Reck,TG Allgäu,"Krapp, Kilian","4,0","12,50",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Reck,TSV Unterföhring,"Isztl, Daniel","2,9","10,30",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Reck,TG Allgäu,"Gottwald, Julian","3,2","12,15",4
+21.10.2023,TSV Unterföhring - TG Allgäu,Reck,TSV Unterföhring,"Wolf, Sebastian","2,9","10,80",0
+21.10.2023,TSV Unterföhring - TG Allgäu,Reck,TG Allgäu,"Kovacs, Marton","4,5","12,40",4
+30.09.2023,TSV Unterföhring - TSG Backnang,Boden,TSV Unterföhring,"Bircks, Oliver","3,8","12,10",1
+30.09.2023,TSV Unterföhring - TSG Backnang,Boden,TSG Backnang,"Cocks, Jonathan","3,8","11,90",0
+30.09.2023,TSV Unterföhring - TSG Backnang,Boden,TSV Unterföhring,"Wolf, Sebastian","3,8","11,55",1
+30.09.2023,TSV Unterföhring - TSG Backnang,Boden,TSG Backnang,"Tasol, Tim","3,7","11,35",0
+30.09.2023,TSV Unterföhring - TSG Backnang,Boden,TSV Unterföhring,"Miggitsch, Martin","4,8","12,70",4
+30.09.2023,TSV Unterföhring - TSG Backnang,Boden,TSG Backnang,"Kuhn, Björn","3,4","10,75",0
+30.09.2023,TSV Unterföhring - TSG Backnang,Boden,TSV Unterföhring,"Isztl, Daniel","3,5","11,85",0
+30.09.2023,TSV Unterföhring - TSG Backnang,Boden,TSG Backnang,"Sirosh, Nikita","4,3","12,50",3
+30.09.2023,TSV Unterföhring - TSG Backnang,Pferd,TSV Unterföhring,"Bircks, Oliver","2,5","10,20",3
+30.09.2023,TSV Unterföhring - TSG Backnang,Pferd,TSG Backnang,"Wullert, Bastian","3,2","9,50",0
+30.09.2023,TSV Unterföhring - TSG Backnang,Pferd,TSV Unterföhring,"Eiglmeier, Christoph","2,5","10,60",2
+30.09.2023,TSV Unterföhring - TSG Backnang,Pferd,TSG Backnang,"Kuhn, Björn","2,7","10,10",0
+30.09.2023,TSV Unterföhring - TSG Backnang,Pferd,TSV Unterföhring,"Miggitsch, Martin","3,9","12,50",5
+30.09.2023,TSV Unterföhring - TSG Backnang,Pferd,TSG Backnang,"Ellinger, Florian","2,7","10,10",0
+30.09.2023,TSV Unterföhring - TSG Backnang,Pferd,TSV Unterföhring,"Wolf, Sebastian","2,8","10,00",4
+30.09.2023,TSV Unterföhring - TSG Backnang,Pferd,TSG Backnang,"Cocks, Jonathan","2,5","8,90",0
+30.09.2023,TSV Unterföhring - TSG Backnang,Ringe,TSV Unterföhring,"Zander, Daniel","5,1","13,30",5
+30.09.2023,TSV Unterföhring - TSG Backnang,Ringe,TSG Backnang,"Wullert, Bastian","2,9","10,80",0
+30.09.2023,TSV Unterföhring - TSG Backnang,Ringe,TSV Unterföhring,"Eiglmeier, Christoph","3,3","9,70",0
+30.09.2023,TSV Unterföhring - TSG Backnang,Ringe,TSG Backnang,"Ellinger, Florian","3,1","10,10",2
+30.09.2023,TSV Unterföhring - TSG Backnang,Ringe,TSV Unterföhring,"Bircks, Oliver","2,9","10,80",1
+30.09.2023,TSV Unterföhring - TSG Backnang,Ringe,TSG Backnang,"Kuhn, Björn","3,2","10,65",0
+30.09.2023,TSV Unterföhring - TSG Backnang,Ringe,TSV Unterföhring,"Bircks, Florian","2,4","10,70",4
+30.09.2023,TSV Unterföhring - TSG Backnang,Ringe,TSG Backnang,"Sirosh, Nikita","3,3","8,95",0
+30.09.2023,TSV Unterföhring - TSG Backnang,Sprung,TSV Unterföhring,"Bircks, Oliver","4,0","12,85",4
+30.09.2023,TSV Unterföhring - TSG Backnang,Sprung,TSG Backnang,"Kuhn, Björn","3,2","11,20",0
+30.09.2023,TSV Unterföhring - TSG Backnang,Sprung,TSV Unterföhring,"Eiglmeier, Christoph","4,0","12,90",2
+30.09.2023,TSV Unterföhring - TSG Backnang,Sprung,TSG Backnang,"Tasol, Tim","4,0","12,60",0
+30.09.2023,TSV Unterföhring - TSG Backnang,Sprung,TSV Unterföhring,"Isztl, Daniel","4,0","12,60",3
+30.09.2023,TSV Unterföhring - TSG Backnang,Sprung,TSG Backnang,"Fischer, Tom","3,2","12,00",0
+30.09.2023,TSV Unterföhring - TSG Backnang,Sprung,TSV Unterföhring,"Miggitsch, Martin","4,0","12,55",4
+30.09.2023,TSV Unterföhring - TSG Backnang,Sprung,TSG Backnang,"Cocks, Jonathan","1,6","10,70",0
+30.09.2023,TSV Unterföhring - TSG Backnang,Barren,TSV Unterföhring,"Bircks, Oliver","2,5","11,15",2
+30.09.2023,TSV Unterföhring - TSG Backnang,Barren,TSG Backnang,"Ellinger, Florian","2,5","10,80",0
+30.09.2023,TSV Unterföhring - TSG Backnang,Barren,TSV Unterföhring,"Zander, Daniel","3,8","12,60",2
+30.09.2023,TSV Unterföhring - TSG Backnang,Barren,TSG Backnang,"Dörksen, Luca","3,0","12,15",0
+30.09.2023,TSV Unterföhring - TSG Backnang,Barren,TSV Unterföhring,"Rolle, Andreas","2,8","11,85",3
+30.09.2023,TSV Unterföhring - TSG Backnang,Barren,TSG Backnang,"Kuhn, Björn","2,7","11,10",0
+30.09.2023,TSV Unterföhring - TSG Backnang,Barren,TSV Unterföhring,"Isztl, Daniel","3,2","12,25",4
+30.09.2023,TSV Unterföhring - TSG Backnang,Barren,TSG Backnang,"Sirosh, Nikita","3,3","10,90",0
+30.09.2023,TSV Unterföhring - TSG Backnang,Reck,TSV Unterföhring,"Bircks, Oliver","2,8","10,95",0
+30.09.2023,TSV Unterföhring - TSG Backnang,Reck,TSG Backnang,"Kuhn, Björn","2,6","11,40",2
+30.09.2023,TSV Unterföhring - TSG Backnang,Reck,TSV Unterföhring,"Isztl, Daniel","2,9","10,40",0
+30.09.2023,TSV Unterföhring - TSG Backnang,Reck,TSG Backnang,"Wullert, Bastian","2,5","11,35",3
+30.09.2023,TSV Unterföhring - TSG Backnang,Reck,TSV Unterföhring,"Marin Ogalla, Pablo","3,6","12,45",4
+30.09.2023,TSV Unterföhring - TSG Backnang,Reck,TSG Backnang,"Ellinger, Florian","2,5","11,25",0
+30.09.2023,TSV Unterföhring - TSG Backnang,Reck,TSV Unterföhring,"Wolf, Sebastian","2,9","10,80",1
+30.09.2023,TSV Unterföhring - TSG Backnang,Reck,TSG Backnang,"Cocks, Jonathan","2,5","10,60",0
+21.10.2023,USC München - KTT Heilbronn,Boden,USC München,"Seipl, Paul","3,3","10,65",0
+21.10.2023,USC München - KTT Heilbronn,Boden,KTT Heilbronn,"Späth, Fabian","3,7","11,50",3
+21.10.2023,USC München - KTT Heilbronn,Boden,USC München,"Huber, Paul","3,3","11,45",3
+21.10.2023,USC München - KTT Heilbronn,Boden,KTT Heilbronn,"Hofmann, Jakob","3,9","10,60",0
+21.10.2023,USC München - KTT Heilbronn,Boden,USC München,"Trattnig, Stephan","3,5","11,95",3
+21.10.2023,USC München - KTT Heilbronn,Boden,KTT Heilbronn,"Thiele, Moritz","3,8","11,30",0
+21.10.2023,USC München - KTT Heilbronn,Boden,USC München,"Röhr, Alessio","3,4","10,60",1
+21.10.2023,USC München - KTT Heilbronn,Boden,KTT Heilbronn,"Payer, Stefan","3,8","10,35",0
+21.10.2023,USC München - KTT Heilbronn,Pferd,USC München,"Seipl, Paul","2,5","10,30",0
+21.10.2023,USC München - KTT Heilbronn,Pferd,KTT Heilbronn,"Binder, Julius","2,7","10,30",0
+21.10.2023,USC München - KTT Heilbronn,Pferd,USC München,"Schnippe, Lukas","2,7","8,65",5
+21.10.2023,USC München - KTT Heilbronn,Pferd,KTT Heilbronn,"Thiele, Moritz","2,6","5,05",0
+21.10.2023,USC München - KTT Heilbronn,Pferd,USC München,"Trattnig, Stephan","2,5","10,70",0
+21.10.2023,USC München - KTT Heilbronn,Pferd,KTT Heilbronn,"Hofmann, Jakob","3,9","11,15",2
+21.10.2023,USC München - KTT Heilbronn,Pferd,USC München,"Pfinder, Moritz","3,3","11,10",3
+21.10.2023,USC München - KTT Heilbronn,Pferd,KTT Heilbronn,"Konrad, Joshua","2,7","10,30",0
+21.10.2023,USC München - KTT Heilbronn,Ringe,USC München,"Seipl, Paul","2,4","10,55",3
+21.10.2023,USC München - KTT Heilbronn,Ringe,KTT Heilbronn,"Staufert, Colin","2,0","10,00",0
+21.10.2023,USC München - KTT Heilbronn,Ringe,USC München,"Huber, Paul","2,9","11,05",1
+21.10.2023,USC München - KTT Heilbronn,Ringe,KTT Heilbronn,"Schaaf, Jonas","2,7","10,85",0
+21.10.2023,USC München - KTT Heilbronn,Ringe,USC München,"Peindl, Severin","2,5","10,80",3
+21.10.2023,USC München - KTT Heilbronn,Ringe,KTT Heilbronn,"Payer, Stefan","2,7","9,80",0
+21.10.2023,USC München - KTT Heilbronn,Ringe,USC München,"Hechtl, Dominik","2,7","10,60",1
+21.10.2023,USC München - KTT Heilbronn,Ringe,KTT Heilbronn,"Storz, Patrick","3,0","10,45",0
+21.10.2023,USC München - KTT Heilbronn,Sprung,USC München,"Schnippe, Lukas","3,2","11,95",1
+21.10.2023,USC München - KTT Heilbronn,Sprung,KTT Heilbronn,"Späth, Fabian","3,2","11,70",0
+21.10.2023,USC München - KTT Heilbronn,Sprung,USC München,"Albert, Felix","3,2","11,70",0
+21.10.2023,USC München - KTT Heilbronn,Sprung,KTT Heilbronn,"Hofmann, Jakob","4,0","12,40",3
+21.10.2023,USC München - KTT Heilbronn,Sprung,USC München,"Huber, Paul","4,0","12,80",4
+21.10.2023,USC München - KTT Heilbronn,Sprung,KTT Heilbronn,"Thiele, Moritz","3,2","11,75",0
+21.10.2023,USC München - KTT Heilbronn,Sprung,USC München,"Röhr, Alessio","4,0","12,60",3
+21.10.2023,USC München - KTT Heilbronn,Sprung,KTT Heilbronn,"Binder, Julius","3,2","11,75",0
+21.10.2023,USC München - KTT Heilbronn,Barren,USC München,"Peindl, Severin","2,6","10,80",0
+21.10.2023,USC München - KTT Heilbronn,Barren,KTT Heilbronn,"Storz, Patrick","2,4","11,70",3
+21.10.2023,USC München - KTT Heilbronn,Barren,USC München,"Huber, Paul","2,5","11,45",3
+21.10.2023,USC München - KTT Heilbronn,Barren,KTT Heilbronn,"Binder, Julius","2,4","10,90",0
+21.10.2023,USC München - KTT Heilbronn,Barren,USC München,"Trattnig, Stephan","2,5","11,85",3
+21.10.2023,USC München - KTT Heilbronn,Barren,KTT Heilbronn,"Schaaf, Jonas","2,5","11,15",0
+21.10.2023,USC München - KTT Heilbronn,Barren,USC München,"Albert, Felix","2,4","11,60",0
+21.10.2023,USC München - KTT Heilbronn,Barren,KTT Heilbronn,"Hofmann, Jakob","3,4","12,25",3
+21.10.2023,USC München - KTT Heilbronn,Reck,USC München,"Röhr, Alessio","2,5","10,50",5
+21.10.2023,USC München - KTT Heilbronn,Reck,KTT Heilbronn,"Payer, Stefan","2,4","7,00",0
+21.10.2023,USC München - KTT Heilbronn,Reck,USC München,"Hechtl, Dominik","2,5","10,85",3
+21.10.2023,USC München - KTT Heilbronn,Reck,KTT Heilbronn,"Schaaf, Jonas","2,8","10,20",0
+21.10.2023,USC München - KTT Heilbronn,Reck,USC München,"Albert, Felix","2,4","10,45",2
+21.10.2023,USC München - KTT Heilbronn,Reck,KTT Heilbronn,"Braun, Dominik","2,4","10,10",0
+21.10.2023,USC München - KTT Heilbronn,Reck,USC München,"Trattnig, Stephan","2,4","11,30",2
+21.10.2023,USC München - KTT Heilbronn,Reck,KTT Heilbronn,"Hofmann, Jakob","2,5","11,00",0
+28.10.2023,USC München - TG Allgäu,Boden,USC München,"Röhr, Alessio","3,5","10,70",0
+28.10.2023,USC München - TG Allgäu,Boden,TG Allgäu,"Urbin, Michael","3,9","11,70",3
+28.10.2023,USC München - TG Allgäu,Boden,USC München,"Huber, Paul","3,9","12,25",3
+28.10.2023,USC München - TG Allgäu,Boden,TG Allgäu,"Eberle, Stephan","3,9","11,35",0
+28.10.2023,USC München - TG Allgäu,Boden,USC München,"Albert, Felix","3,3","11,30",0
+28.10.2023,USC München - TG Allgäu,Boden,TG Allgäu,"Krapp, Kilian","4,6","12,25",3
+28.10.2023,USC München - TG Allgäu,Boden,USC München,"Hechtl, Dominik","3,9","9,50",0
+28.10.2023,USC München - TG Allgäu,Boden,TG Allgäu,"Kirmes, Oskar","5,2","12,85",5
+28.10.2023,USC München - TG Allgäu,Pferd,USC München,"Seipl, Paul","2,5","9,00",5
+28.10.2023,USC München - TG Allgäu,Pferd,TG Allgäu,"Viehmann, Bastian","2,2","3,55",0
+28.10.2023,USC München - TG Allgäu,Pferd,USC München,"Huber, Paul","2,4","10,80",0
+28.10.2023,USC München - TG Allgäu,Pferd,TG Allgäu,"Kirmes, Oskar","4,7","13,50",5
+28.10.2023,USC München - TG Allgäu,Pferd,USC München,"Trattnig, Stephan","2,5","10,20",0
+28.10.2023,USC München - TG Allgäu,Pferd,TG Allgäu,"Eberle, Stephan","3,7","11,30",4
+28.10.2023,USC München - TG Allgäu,Pferd,USC München,"Pfinder, Moritz","3,3","9,25",0
+28.10.2023,USC München - TG Allgäu,Pferd,TG Allgäu,"Urbin, Stephan","2,5","10,15",3
+28.10.2023,USC München - TG Allgäu,Ringe,USC München,"Peindl, Severin","2,5","10,70",2
+28.10.2023,USC München - TG Allgäu,Ringe,TG Allgäu,"Eberle, Maximilian","3,3","10,30",0
+28.10.2023,USC München - TG Allgäu,Ringe,USC München,"Huber, David","2,4","10,70",4
+28.10.2023,USC München - TG Allgäu,Ringe,TG Allgäu,"Viehmann, Bastian","3,1","9,40",0
+28.10.2023,USC München - TG Allgäu,Ringe,USC München,"Huber, Paul","2,9","10,90",0
+28.10.2023,USC München - TG Allgäu,Ringe,TG Allgäu,"Kirmes, Oskar","4,6","13,20",5
+28.10.2023,USC München - TG Allgäu,Ringe,USC München,"Hechtl, Dominik","3,1","10,10",4
+28.10.2023,USC München - TG Allgäu,Ringe,TG Allgäu,"Schreiber, Florian","3,4","8,85",0
+28.10.2023,USC München - TG Allgäu,Sprung,USC München,"Schnippe, Lukas","3,2","11,70",2
+28.10.2023,USC München - TG Allgäu,Sprung,TG Allgäu,"Viehmann, Bastian","2,4","11,30",0
+28.10.2023,USC München - TG Allgäu,Sprung,USC München,"Albert, Felix","3,2","11,60",0
+28.10.2023,USC München - TG Allgäu,Sprung,TG Allgäu,"Eberle, Stephan","4,0","12,30",3
+28.10.2023,USC München - TG Allgäu,Sprung,USC München,"Röhr, Alessio","4,0","12,85",0
+28.10.2023,USC München - TG Allgäu,Sprung,TG Allgäu,"Krapp, Kilian","4,4","12,95",0
+28.10.2023,USC München - TG Allgäu,Sprung,USC München,"Huber, Paul","4,0","13,10",0
+28.10.2023,USC München - TG Allgäu,Sprung,TG Allgäu,"Kirmes, Oskar","4,0","13,35",1
+28.10.2023,USC München - TG Allgäu,Barren,USC München,"Huber, David","2,5","11,35",3
+28.10.2023,USC München - TG Allgäu,Barren,TG Allgäu,"Urbin, Michael","3,3","10,75",0
+28.10.2023,USC München - TG Allgäu,Barren,USC München,"Albert, Felix","2,4","11,45",0
+28.10.2023,USC München - TG Allgäu,Barren,TG Allgäu,"Eberle, Stephan","3,2","11,70",1
+28.10.2023,USC München - TG Allgäu,Barren,USC München,"Huber, Paul","2,5","11,30",0
+28.10.2023,USC München - TG Allgäu,Barren,TG Allgäu,"Kirmes, Oskar","5,0","13,90",5
+28.10.2023,USC München - TG Allgäu,Barren,USC München,"Peindl, Severin","2,4","10,80",0
+28.10.2023,USC München - TG Allgäu,Barren,TG Allgäu,"Krapp, Kilian","3,2","12,30",4
+28.10.2023,USC München - TG Allgäu,Reck,USC München,"Albert, Felix","2,4","10,25",0
+28.10.2023,USC München - TG Allgäu,Reck,TG Allgäu,"Krapp, Kilian","4,0","11,55",4
+28.10.2023,USC München - TG Allgäu,Reck,USC München,"Pfinder, Moritz","2,6","8,85",0
+28.10.2023,USC München - TG Allgäu,Reck,TG Allgäu,"Gottwald, Julian","3,2","10,90",5
+28.10.2023,USC München - TG Allgäu,Reck,USC München,"Röhr, Alessio","2,9","9,90",0
+28.10.2023,USC München - TG Allgäu,Reck,TG Allgäu,"Urbin, Michael","3,5","11,65",4
+28.10.2023,USC München - TG Allgäu,Reck,USC München,"Trattnig, Stephan","2,4","10,30",0
+28.10.2023,USC München - TG Allgäu,Reck,TG Allgäu,"Kirmes, Oskar","4,4","13,50",5
+07.10.2023,USC München - TG Wangen-Eisenharz,Boden,USC München,"Huber, Paul","3,3","11,60",3
+07.10.2023,USC München - TG Wangen-Eisenharz,Boden,TG Wangen-Eisenharz,"Ruf, Elias","4,0","11,05",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Boden,USC München,"Bouchi, Rayan","3,2","11,35",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Boden,TG Wangen-Eisenharz,"von Kirn, Julian","4,3","12,00",3
+07.10.2023,USC München - TG Wangen-Eisenharz,Boden,USC München,"Röhr, Alessio","3,4","11,80",1
+07.10.2023,USC München - TG Wangen-Eisenharz,Boden,TG Wangen-Eisenharz,"Mittmann, Moritz","3,3","11,60",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Boden,USC München,"Seipl, Paul","3,3","10,50",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Boden,TG Wangen-Eisenharz,"Drechsel, Manuel","4,0","12,25",4
+07.10.2023,USC München - TG Wangen-Eisenharz,Pferd,USC München,"Bouchi, Rayan","2,6","10,60",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Pferd,TG Wangen-Eisenharz,"Kimmerle, Felix","3,1","10,75",1
+07.10.2023,USC München - TG Wangen-Eisenharz,Pferd,USC München,"Schnippe, Lukas","2,1","3,40",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Pferd,TG Wangen-Eisenharz,"Schober, Pascal","3,5","11,90",10
+07.10.2023,USC München - TG Wangen-Eisenharz,Pferd,USC München,"Pfinder, Moritz","2,6","9,70",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Pferd,TG Wangen-Eisenharz,"Ruf, Elias","2,7","10,25",3
+07.10.2023,USC München - TG Wangen-Eisenharz,Pferd,USC München,"Seipl, Paul","2,5","10,50",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Pferd,TG Wangen-Eisenharz,"Mittmann, Moritz","3,2","11,20",3
+07.10.2023,USC München - TG Wangen-Eisenharz,Ringe,USC München,"Huber, Paul","2,4","10,25",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Ringe,TG Wangen-Eisenharz,"Steinhauser, Nico","3,2","10,70",2
+07.10.2023,USC München - TG Wangen-Eisenharz,Ringe,USC München,"Seipl, Paul","2,4","10,50",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Ringe,TG Wangen-Eisenharz,"Kimmerle, Felix","3,3","10,70",1
+07.10.2023,USC München - TG Wangen-Eisenharz,Ringe,USC München,"Peindl, Severin","2,5","10,45",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Ringe,TG Wangen-Eisenharz,"Ruf, Elias","3,8","10,45",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Ringe,USC München,"Huber, David","2,5","9,15",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Ringe,TG Wangen-Eisenharz,"Drechsel, Manuel","3,5","11,50",5
+07.10.2023,USC München - TG Wangen-Eisenharz,Sprung,USC München,"Röhr, Alessio","4,0","12,75",3
+07.10.2023,USC München - TG Wangen-Eisenharz,Sprung,TG Wangen-Eisenharz,"Ruf, Elias","3,2","12,20",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Sprung,USC München,"Schnippe, Lukas","3,2","12,00",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Sprung,TG Wangen-Eisenharz,"Kimmerle, Felix","3,2","12,25",1
+07.10.2023,USC München - TG Wangen-Eisenharz,Sprung,USC München,"Bouchi, Rayan","3,2","12,05",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Sprung,TG Wangen-Eisenharz,"Drechsel, Manuel","4,0","12,95",3
+07.10.2023,USC München - TG Wangen-Eisenharz,Sprung,USC München,"Albert, Felix","2,4","11,60",4
+07.10.2023,USC München - TG Wangen-Eisenharz,Sprung,TG Wangen-Eisenharz,"Ruchti, Finn","2,2","10,50",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Barren,USC München,"Huber, David","2,5","11,30",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Barren,TG Wangen-Eisenharz,"Kimmerle, Felix","3,3","11,45",1
+07.10.2023,USC München - TG Wangen-Eisenharz,Barren,USC München,"Huber, Paul","2,5","11,10",1
+07.10.2023,USC München - TG Wangen-Eisenharz,Barren,TG Wangen-Eisenharz,"Schober, Pascal","3,3","10,90",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Barren,USC München,"Hechtl, Dominik","2,5","10,90",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Barren,TG Wangen-Eisenharz,"Mittmann, Moritz","3,4","12,15",4
+07.10.2023,USC München - TG Wangen-Eisenharz,Barren,USC München,"Trattnig, Stephan","2,5","11,50",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Barren,TG Wangen-Eisenharz,"Drechsel, Manuel","3,5","12,20",3
+07.10.2023,USC München - TG Wangen-Eisenharz,Reck,USC München,"Albert, Felix","2,4","9,40",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Reck,TG Wangen-Eisenharz,"Kimmerle, Felix","2,7","10,75",4
+07.10.2023,USC München - TG Wangen-Eisenharz,Reck,USC München,"Bouchi, Rayan","2,5","9,50",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Reck,TG Wangen-Eisenharz,"von Kirn, Julian","2,4","9,45",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Reck,USC München,"Hechtl, Dominik","2,9","10,45",3
+07.10.2023,USC München - TG Wangen-Eisenharz,Reck,TG Wangen-Eisenharz,"Drechsel, Manuel","2,6","9,50",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Reck,USC München,"Trattnig, Stephan","2,4","10,30",0
+07.10.2023,USC München - TG Wangen-Eisenharz,Reck,TG Wangen-Eisenharz,"Ruf, Elias","2,9","10,75",2
+23.09.2023,USC München - TSV Unterföhring,Boden,USC München,"Trattnig, Stephan","3,5","11,50",0
+23.09.2023,USC München - TSV Unterföhring,Boden,TSV Unterföhring,"Bircks, Oliver","3,8","12,00",2
+23.09.2023,USC München - TSV Unterföhring,Boden,USC München,"Bouchi, Rayan","3,2","11,50",3
+23.09.2023,USC München - TSV Unterföhring,Boden,TSV Unterföhring,"Isztl, Daniel","4,1","10,65",0
+23.09.2023,USC München - TSV Unterföhring,Boden,USC München,"Röhr, Alessio","3,3","11,55",1
+23.09.2023,USC München - TSV Unterföhring,Boden,TSV Unterföhring,"Wolf, Sebastian","3,8","11,40",0
+23.09.2023,USC München - TSV Unterföhring,Boden,USC München,"Huber, Paul","3,3","10,85",0
+23.09.2023,USC München - TSV Unterföhring,Boden,TSV Unterföhring,"Miggitsch, Martin","4,6","11,00",1
+23.09.2023,USC München - TSV Unterföhring,Pferd,USC München,"Seipl, Paul","2,5","9,95",3
+23.09.2023,USC München - TSV Unterföhring,Pferd,TSV Unterföhring,"Eiglmeier, Christoph","2,6","9,25",0
+23.09.2023,USC München - TSV Unterföhring,Pferd,USC München,"Bouchi, Rayan","2,6","9,95",0
+23.09.2023,USC München - TSV Unterföhring,Pferd,TSV Unterföhring,"Miggitsch, Martin","4,1","11,15",4
+23.09.2023,USC München - TSV Unterföhring,Pferd,USC München,"Ritung, Ken","3,6","11,65",5
+23.09.2023,USC München - TSV Unterföhring,Pferd,TSV Unterföhring,"Bircks, Oliver","2,7","9,15",0
+23.09.2023,USC München - TSV Unterföhring,Pferd,USC München,"Pfinder, Moritz","3,3","10,30",5
+23.09.2023,USC München - TSV Unterföhring,Pferd,TSV Unterföhring,"Wolf, Sebastian","2,5","7,80",0
+23.09.2023,USC München - TSV Unterföhring,Ringe,USC München,"Huber, Paul","2,9","10,95",0
+23.09.2023,USC München - TSV Unterföhring,Ringe,TSV Unterföhring,"Bircks, Oliver","2,9","10,95",0
+23.09.2023,USC München - TSV Unterföhring,Ringe,USC München,"Peindl, Severin","2,5","10,60",1
+23.09.2023,USC München - TSV Unterföhring,Ringe,TSV Unterföhring,"Bircks, Florian","2,4","10,35",0
+23.09.2023,USC München - TSV Unterföhring,Ringe,USC München,"Huber, David","2,4","10,70",3
+23.09.2023,USC München - TSV Unterföhring,Ringe,TSV Unterföhring,"Eiglmeier, Christoph","2,9","9,80",0
+23.09.2023,USC München - TSV Unterföhring,Ringe,USC München,"Seipl, Paul","2,4","10,30",0
+23.09.2023,USC München - TSV Unterföhring,Ringe,TSV Unterföhring,"Zander, Daniel","5,1","12,75",5
+23.09.2023,USC München - TSV Unterföhring,Sprung,USC München,"Bouchi, Rayan","3,2","11,90",0
+23.09.2023,USC München - TSV Unterföhring,Sprung,TSV Unterföhring,"Eiglmeier, Christoph","4,0","12,85",3
+23.09.2023,USC München - TSV Unterföhring,Sprung,USC München,"Ritung, Ken","4,0","12,65",0
+23.09.2023,USC München - TSV Unterföhring,Sprung,TSV Unterföhring,"Miggitsch, Martin","4,8","13,15",2
+23.09.2023,USC München - TSV Unterföhring,Sprung,USC München,"Albert, Felix","2,4","11,05",0
+23.09.2023,USC München - TSV Unterföhring,Sprung,TSV Unterföhring,"Bircks, Oliver","4,0","12,40",4
+23.09.2023,USC München - TSV Unterföhring,Sprung,USC München,"Röhr, Alessio","4,0","12,70",3
+23.09.2023,USC München - TSV Unterföhring,Sprung,TSV Unterföhring,"Isztl, Daniel","4,0","12,15",0
+23.09.2023,USC München - TSV Unterföhring,Barren,USC München,"Ritung, Ken","3,2","11,65",1
+23.09.2023,USC München - TSV Unterföhring,Barren,TSV Unterföhring,"Rolle, Andreas","2,7","11,40",0
+23.09.2023,USC München - TSV Unterföhring,Barren,USC München,"Huber, David","2,5","11,65",0
+23.09.2023,USC München - TSV Unterföhring,Barren,TSV Unterföhring,"Bircks, Oliver","2,5","11,55",0
+23.09.2023,USC München - TSV Unterföhring,Barren,USC München,"Albert, Felix","2,4","11,25",0
+23.09.2023,USC München - TSV Unterföhring,Barren,TSV Unterföhring,"Isztl, Daniel","3,2","11,75",2
+23.09.2023,USC München - TSV Unterföhring,Barren,USC München,"Huber, Paul","2,5","11,55",2
+23.09.2023,USC München - TSV Unterföhring,Barren,TSV Unterföhring,"Zander, Daniel","3,8","11,25",0
+23.09.2023,USC München - TSV Unterföhring,Reck,USC München,"Bouchi, Rayan","2,5","10,45",1
+23.09.2023,USC München - TSV Unterföhring,Reck,TSV Unterföhring,"Bircks, Oliver","2,7","10,30",0
+23.09.2023,USC München - TSV Unterföhring,Reck,USC München,"Albert, Felix","2,4","10,65",0
+23.09.2023,USC München - TSV Unterföhring,Reck,TSV Unterföhring,"Isztl, Daniel","2,9","10,80",1
+23.09.2023,USC München - TSV Unterföhring,Reck,USC München,"Ritung, Ken","2,7","10,45",0
+23.09.2023,USC München - TSV Unterföhring,Reck,TSV Unterföhring,"Marin Ogalla, Pablo","3,6","11,80",4
+23.09.2023,USC München - TSV Unterföhring,Reck,USC München,"Pfinder, Moritz","2,6","9,40",0
+23.09.2023,USC München - TSV Unterföhring,Reck,TSV Unterföhring,"Wolf, Sebastian","2,9","9,80",2
